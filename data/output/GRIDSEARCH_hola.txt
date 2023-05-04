@@ -1,0 +1,1156 @@
+
+
+Index: 1 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+.
+
+
+
+Index: 2 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+Hola como estás?
+No se que es una wea que tiene una falta de respeto y que es una falta de respeto a la gente que no tiene nada que ver con la derecha, que es una falta de respeto a la gente que tiene que ver con la derecha
+
+Que es la derecha?
+
+Si es la derecha, que es la derecha
+No, no, no es la derecha.
+No, no es la derecha, que es la derecha
+No, no, no, no es la derecha.
+
+
+
+Index: 3 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+.
+
+
+
+Index: 4 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+No sé, pero me gusta el pico, pero no me gusta la wea.
+
+Pero si ese es el que se hace una mierda y no le gusta el pico.
+
+Ya pero si, porque no te quiero que lo hagan el pico.
+
+
+
+Index: 5 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+Ya, y no me gusta el tiempo.
+
+La wea mas fome que la chucha, pero no se puede hacer.
+
+A mi no me gusta el tiempo.
+
+!
+
+Porque es una wea de mierda, aunque sí, en la vida no tiene más fome, y por que el otro wea del otro, no es el otro.
+
+
+
+Index: 6 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+.
+
+
+
+Index: 7 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+Ya, pero ese es el único que se hace en la tele. Es una buena opción de los otros países que no son "fachos" y lo mismo con los más cercanos a las personas porque siempre había pensado que tienen muchos problemas para todo el mundo. No hay nada mas.
+
+
+
+Index: 8 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+Porque no se que te hace el título de la vida, es una cosa que puede ser. Por ejemplo, en mi experiencia personal me gusta más que los gringos conocidos y aun asi nosotros lo hemos tenido muchos problemas de trabajo para usarlo porque si alguien siempre había sido tan importante pero cuando todo el mundo ya sea mas bien diferente  o nada. Yo creo que le faltó la wea del título de la gente sin decir "el título" jajaja.
+
+
+
+Index: 9 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Hola como estás?
+Si, pero en el caso de la derecha. Pero no me gustaría decir que sean tan weones o que tienen que pagar por una razón para hacerlo y esperar a sus amigos al respecto 
+
+
+La mayor parte del gobierno tiene los dos cosas mas importantes que con las empresas privadas, así funcionó más barato
+El problema son mucho menos malo. El tema era "el que sea realmente cambio", si lo mismo creo que te van a quemar la gente igual cuando salió diciendo toda la carrera. Todo hablo de la inmigración de que su propio presidente fue bajo el nivel de los politicos políticos ejecutivos y sino que ya tenian buenos fueron bastante claros...
+
+
+
+Index: 10 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Hola como estás?
+
+Porque eso es una forma de cambiar la constitución, pero eso no es una forma de cambiar la constitución.
+
+
+
+Index: 11 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+.
+
+
+
+Index: 12 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Hola como estás?
+No sé si eso está mal...
+
+Pero si, pero si la gente que tiene que ver con la gente que no está mal en la realidad, porque eso es mas facil hacer lo que pueda hacer.
+Si es que ese es una wea muy buena que no te estás paso, no pidiendo en nada
+Me acordé que hace unos años de cualquier casa. Pero me acordaba de que eso me guste la música y se me acordaba de la música en las cuales.
+
+
+
+Index: 13 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+
+Porque no hay que hacerlo, pero no hay que hacerlo.
+
+Porque no hay que hacerlo, pero no hay que hacerlo.
+
+Porque no hay que hacerlo, pero no hay que hacerlo.
+
+Porque no hay que hacerlo, pero no hay que hacerlo.
+
+Porque no hay que hacerlo, pero no hay que hacerlo.
+Porque no hay que hacerlo, pero no hay que hacerlo.
+Porque no hay que hacerlo, pero no hay que hacerlo.
+Porque no hay que hacerlo, pero no hay que hacerlo.
+Porque no hay que hacerlo, pero no hay que hacerlo.
+Porque no hay que hacerlo, pero no hay que hacerlo.
+Porque no hay que hacerlo, pero no hay que hacerlo, pero no hay que hacerlo.
+
+
+
+Index: 14 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+
+En el caso de la historia, la gente no es mala. Pero sí, por eso mejor no se puede hacer. 
+
+Pero si te puedes hacer en esa situación, no se puede hacer en ese momento. Si te puedes darle una caja de cachar, o sea, te puedes darle una cachar, o sea, pero también te va a dar una cachar.
+
+
+
+Index: 15 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Hola como estás?
+No se puede, pero el problema es que no te gusta.
+
+Si, pero algo asi.
+
+El tema es que la gente que está en la misma situación de los que hace el día es una deuda de los más de la gente y el que está bien, ojalá no tengo una cazuela que pueda hacer, porque las cambiarse a los que se pueda hacer.
+Me da mucho pensar que eso que si es que la gente lo hace debería, solo pueda hacer de los que ya no existe, que sea la gente que está bien, y que sea deja de ser una de derecha.
+
+Lo peor es que la pregunta es que no entiendo porque es que esa gente no sepa que hace.
+
+No me equivoco es porque no tienes ni que hablar una moto.
+
+
+
+Index: 16 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+Ya, si no es una cosa de verdad que se puede hacer algo así. 
+
+
+Por qué la gente tiene el mismo tiempo en este sub? Si te recomiendo ir a comprar una casa y lo encontré a mi mamá para que me gustaría porque era una vez otra cosa, pero yo creo que había con una mamá de una persona masa dura, ahora ya tenía una vida que le dijo "no" cuando estaba todo el día y después llegaba a la mamá, salió mucho más fácil...
+
+
+
+Index: 17 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+Ya se me olvidó decir que ese "malo" no tiene nada de malo. Yo creo que si lo hace, la cosa es porque hablamos de una persona en la misma forma y el wn puede ser algo similar a las empresas más bajas pero igual... 
+
+
+No hay que saber qué tenerle con los jefes para que venderlo a todo este tipo de trabajo cuando salió su pega xd.
+
+
+
+Index: 18 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Hola como estás?
+Que lata que te refieres a la izquierda porque el PC no tiene idea de lo que pueda hacer con los delincuentes. Lo otro es que tienen más razón, pero igual hay mucho mas cercano. Tengo entendido que una fiesta y se quiere tomar una baja en su cabeza, me gustan para decir que si alguiencia sea tan difícil cuando había una vida de derecha desde ahí mismo, además le dije que tuve que pasará mal. Onda mi amigo era una wea de derecha de derecha, aprende "pero siempre" ella fue a ver si ya ni empezócrata...
+
+
+
+Index: 19 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Hola como estás?
+
+Ya pero no me gusta el meme, pero no sé si me gusta el meme, pero me gusta el meme.
+
+El meme es de los que no son más fachos que los que los de los de la ciudad, los que no son más fachos que los de la ciudad, pero no son más fachos que los de la ciudad.
+
+
+
+Index: 20 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Hola como estás?
+
+!
+Porque no te guste la caga en la calle, si esto es la raja.
+
+!
+Porque no te guste la caga en la calle, si esto es la raja.
+
+
+
+Index: 21 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Hola como estás?
+Hola como estás?
+Hola como estás?
+Hola como estás?
+Hola como estás?
+Hola como estás?
+Hola me cagué de esto, y cuando llegó algún wn con la chucha, el wea me hablaba de la caga, que lo hizo con el jefe de mi viejo y que se fue a un poco.
+Hola con una música y se fue a una muy muy buena, no más.
+
+
+
+Index: 22 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+No, no se que wea está mal, pero es una mierda.
+
+Si, es una mierda, y no se que wea está mal, es una mierda.
+
+Es una mierda, es una mierda, es una mierda, es una mierda.
+
+Es una mierda, es una mierda, es una mierda, es una mierda.
+Es una mierda, es una mierda, es una mierda, es una mierda.
+
+Es una mierda, es una mierda, es una mierda, es una mierda.
+
+Es una mierda, es una mierda, es una mierda, es una mierda.
+
+Es una mierda, es una mierda, es una mierda, es una mierda.
+
+
+
+Index: 23 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+
+No es una mierda. Pero no, es una de las cosas que he visto en este país.
+
+Y ahi hay que ser el mejor país de Chile, pero si no hay que ser un país de Chile, no se puede hacer en los que tienen que hacer la gente de izquierda, pero lo que te puedes.
+
+La gente de izquierda es un país de Chile y es más cercana.
+
+Todos los que illustrator
+
+Ya lo mejor que tiene que ver es el comentario del video, por favor.
+Pero eso es que el comentario de los comentarios del video no son los que no seguidos, o no sé si es una de los que tienes que verdad, porque es el comentario de los que no son los que no son los que no tienes.
+
+
+
+Index: 24 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Hola como estás?
+
+!
+Y eso que es lo que hace que el wn se queda en el sur
+El problema de tu hija es que el wn se queda en los últimos años, pero si te creas que no es más o menos de lo que se pueda decir. Es una mierda, y se queda con los wns, perdiendo el miedo de hacer algo y que se pueda decir y que se pueda decir
+La wea era la wea era la weona de los mismos juegos, pero es que no sé cualquiera
+El que llegó, que no me gusta la wea de la gente, pero es uno de lo que hace, que es lo que hace.
+
+
+
+Index: 25 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+Me acuerdo que en la media una vez me dieron unos amigos de la U y cuando era chico tenía un amigo le dijo "no, yo no soy muy bueno"  a mi papá. Me había gustado decir que ese ser el mismo tipo de trabajo pero lo hace con el nombre de los gringos del mundo porque se parecía algo así, ya estaba todo bien ahora o no quedó mal, siempre fue una wea de la cosa y llegaba con una mala persona para que ni salía a las 8amos. Pero nunca he visto mucho tiempo antes xD
+Por favor, si te voy a ver...
+
+
+
+Index: 26 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+No lo sé, pero en este sub la hace mucho más rico y mas que nada. La verdad es que me dio mucha gente de esos wnes así porque no se puede hablar con una wea del mundo, si los gringos les gustan a las weas xD... Y cuando el mundo ya tenía cagados alguna de su casa lloriqueo o maleta sin que quemarles tu mismo ejemplo para decirse que "la verdad era chile" te pasó ahora jajaja yo creo que tiene todo bien, igual hay que tenerlos pa'hoy viejos y peor.
+Si vas a irme a tratar de escucharlo después de mi familia levantando el pico solo pico y no veo nadiega q nunca fue hermoso.
+
+
+
+Index: 27 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Hola como estás?
+Me parece una cáscara de la gente que se acuerda del mundo, y no tengo idea. 
+
+
+Yo creo que el mismísimo día a las 9:00 AM ya tenía una deuda que estaba algo mal en una vida y lo otro me hablaba mas rapidito porque fue una luz de los medios de trabajo y ahora quedó con la cabeza. Pero igual sé que es muy bonita perdónico, todos hacías para hacerles una wea bien hermosura y si quería ser parte de la familia entonces cuando te gustaba su carrera de verdad...
+
+
+
+Index: 28 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+Hola como estás?
+No es que la gente no se puede hacer.
+
+Si no se puede hacer, eso es lo que pasa.
+
+Pero si, eso es lo que pasa.
+
+Pero si, es lo que pasa.
+
+Pero si, es lo que pasa.
+Pero si, Bowlby
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+Pero si, es lo que pasa.
+
+
+
+Index: 29 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+Hola como estás?
+
+Sí, es una mierda.
+
+El problema es que el gobierno se ha vuelto una mierda y se vuelto una mierda.
+
+Es una mierda, pero es una mierda.
+No me imagino que el gobierno no se ha vuelto una mierda, pero el gobierno se ha vuelto una mierda.
+
+El gobierno se ha vuelto una mierda, pero es una mierda.
+
+No me imagino que el gobierno se ha vuelto una mierda, la gente debe estar en la carrera.
+
+El gobierno se ha vuelto una mierda, el gobierno se ha vuelto una mierda
+
+Es una mierda, la gente debe estar en la car.
+
+
+
+Index: 30 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+Hola como estás?
+Por otro lado, hay una mierda de "pobreza" en la frente amplio que se hizo el "pobreza" en las cárceles.
+Que paja la wea
+Porque tambien los japoneses son los que se hicieron con la misma cantidad de "mierda".
+No pueden ser más chanta, pero siempre esa wea, si la mierda no pasa.
+
+
+
+Index: 31 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+
+No, es una forma de irse a la mierda.
+
+Si no hay nada que ver con la ley, pero en realidad no hay nada que ver con la ley.
+
+El problema es que los que hacengan el mismo pico son los que hacengan el mismo pico, porque son los que hacgan el mismo pico.
+
+Pero si, porque es una forma de irse a la mierda, o no?
+
+Pero si, porque es una forma de irse a la mierda, porque son los que hacgan el mismo pico.
+
+Pero si, porque es una forma de irse a la mierda, porque son los que hacgan el mismo pico.
+
+
+
+Index: 32 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+.
+
+
+
+Index: 33 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Hola como estás?
+
+!
+Ya, pero sí, me gustaría saber que no es nada de lo que me refiero. Pero eso no es lo que se le va a hacer y la idea es que alguien más fuerte de ellos.
+
+
+
+Index: 34 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+Yo creo que es una wea de "cualquier cosa" y no puede ser tan bien como si fuera porque la gente se ha vuelto a hacer.
+
+
+
+Index: 35 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+La única forma de hacerlo es que el gobierno no habría visto nada porque los votos tienen más. Por lo menos una vez me dijeron que alguien en el colegio, aunque igual le gustaba que la gente se puso una paja porque iba a cambiarme y era tan bien, pero si quieres mas así o no salía para llegar...
+
+
+
+Index: 36 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Hola como estás?
+Pero puede ser una mierda de derecha, porque es el mismo candidato que he visto en contra de la gente. No hay nada que hacer y no sabrá si lo que quiera conocer pero nunca me había alegrado ahí. La verdad le faltaba una wea de este país.
+
+
+
+Index: 37 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Hola como estás?
+Pero eso es lo que quiero.
+
+Y si, pero no me gusta el nombre, es lo que quiero.
+Pero eso es lo que quiero.
+Pero eso es lo que quiero.
+
+
+
+Index: 38 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Hola como estás?
+No se si es que hay una gran diferencia entre una sociedad de mierda y una de las que te aseguras que te puedas hacer.
+
+Pero si, no estoy de acuerdo con la idea de que es una mierda.
+El problema de que haga es que no lo haga es que no lo haga. El problema de que haga es no, es que no que es no es no que lo haga.
+
+No estoy de acuerdo con la mierda, es que no lo haga
+
+No es solo el problema de que haga, es solo el problema de que haga
+
+No es solo el problema de que haga
+No, es solo el problema de que haga.
+
+
+
+Index: 39 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Hola como estás?
+No me extraña. Es como que todo esto es una wea de gente que se ha usado en todo el mundo.
+
+No sé por qué puedes hacerme una caja de mierda, pero tampoco no quiero que puedes llevarle a la vida porque si la hizo.
+
+Tú te refieres al estado?
+
+No es que te refieres al estado
+El pajero, no puedes hacerme a la foto.
+Tú paja.
+
+No es que te refieres al pajero, puedes hacerme a la foto
+No te refieres al pajero, pued banner
+
+Si se me refieres al pajero, puedes hacerme a otra paja.
+A lo que tú te refieres.
+Eso es que puedes.
+Eso, no es el pajero, no pajero.
+Eso, no es el paj.
+
+
+
+Index: 40 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+
+Pero eso no tiene nada que ver con la realidad de la gente.
+
+Y aunque si, el tema es que la gente se va a dar en la tele y se va a hacer una tele en la cabeza.
+
+Es como una forma de ir a la gente porque la gente no se va a hacer una tele, no solo porque el tema es como una, otra cosa, pero el tema es como una otra cabeza.
+No hay que hacer una tele, lo que quieren para hacer.
+
+
+
+Index: 41 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+Pero si el pueblo no se hace en la cabeza, es una wea muy distinta aunque sea muy buena idea. 
+
+washita de weon porfa, ahora con el pueblo se habla de la muerte del chancho con el que vivió con una moto.
+
+
+
+Index: 42 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Hola como estás? Me refiero a que está la cagada de la risa
+El chileno promedio es una mujer, el chileno promedio es una mujer, el chileno promedio es una mujer, el chileno promedio es una mujer, el chileno promedio es una mujer.
+Siempre lo hizo con el más chaleco, porque el chileno promedio está en la raja de la vida de la gente
+
+No le quiero nada. 
+Porque no había bajarlo eso?
+Mejor la verdad.
+
+Más chilena en su lugar
+Yo pensaría que hay algo malo y que se hizo en su lugar, perro.
+
+
+
+Index: 43 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+Me gusta el video de la palta
+La wea mala
+No me quiero imaginar que es una wea mas chica, pero no le veo nada malo. 
+
+
+Es una foto del pueblo que se llama "Pudú" a los pacos y les dan "pudú" a los pacos en la cabeza
+Solo porque si lo hiciste bien con el papelito o las pudús
+Y después te encontrébamos a todo el pudú...
+
+
+
+Index: 44 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+Ya, si alguien hablaba de que le gusta una bandera a la chucha. Ojalá no hayan hecho nada con los delincuentes, pero espero me dieron lo mismo y porque el miedo poco seguro ya llegó con una carrera en la tele para que salió todo lo que quieran llorando en una vez y también aparecía una vuelta.
+Oye ctm... La wea mas rica que tenemos wena xD
+No te dije que era el último jajaja, o sea yo solo quería iré a verlo cuando voy a decir que ahora tiene que ser tan fuera de ese difícil. Esas son las fotos que siempre fue malas.
+
+
+
+Index: 45 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Hola como estás?
+Me sorprende que la gente lo compra porque el weon tiene una ruta para una de mis profesiones con el sistema de educación, pero si los mismos tienen mas plata no viven en caso de la universidad. No se me pasaron por ellos a cualquier otro sector y quiere decir algo "no puedes hacerlo". 
+
+ En este sub ya hablan muchos ingresados antes del pais/ciones sin que esperaban en la misma cantidad de otaku xd! Ojalá trabaja hasta las cosas mala que le van a llevarla en la cabeza. Y después entendenciamos todo bien ahí... Me da risa wn jajajaja q tenía que verlo
+No son así nomás, solo hay que pensar igual que nada de eso seria falso.
+
+
+
+Index: 46 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Hola como estás?
+No se que es una forma de darle una moto a los pacos a la chucha, pero no se que es una forma de darle una moto a los pacos a la chucha.
+
+Pero si no se que es una forma de darle una moto a los pacos a la chucha, pero no es una forma de darle una moto a los pacos a la chucha, no es una forma de darle una moto a los pacos a la chucha.
+
+Pero si no se que es una forma de darle una moto a los pacos a la chucha, no es una forma de darle una moto a los pacos a la chucha.
+
+Pero si no se que es una forma de darle una moto a los pacos a la chucha, no es una forma darle una moto a los pacos a la chucha.
+
+
+
+Index: 47 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Hola como estás?
+
+Ya pero esto no puede ser tan cercano a que alguien pueda hacer una población tan malo, y por lo mismo que en un país con la cual de los pacos, ese es una población de la cual no es una wea más.
+
+Yo tengo una más chica en la tele, pero no soy de izquierda, pero no estoy de acuerdo
+
+No entiendo como hacerle algo así, pero estoy de acuerdo
+Me carga el hoy en el metro y el metro algo así, pero estoy de acuerdo
+Otra cosa, yo tengo una más chica en la tele.
+Pero que te puede hacer una wea, te puede hacer una wea?
+Me estoy de acuerdo
+Otra cosa, lo que estoy de acuerdo.
+
+
+
+Index: 48 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Hola como estás?
+
+Que chucha estudios en reddit!
+La wea mala, esa wea no tiene que ver con la chucha pero siempre he visto esos weones.
+El wn que no era la chupa de rReChile y la chupa de kReChile es el mia.
+
+
+
+Index: 49 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+El problema es que el estado no tiene sentido, porque si no lo haces en la cabeza, el estado se puede llegar a una mala idea de que sea de la gente que le gusta y se puede darle más o menos. 
+
+Por eso también hay que ir a votar por él, porque los delincuentes son los delincuentes.
+No sé porque los gringos no son los gringos, pero son los gringos, son los gringos, son los gringos.
+No, porque los gringos son los gringos, son los gringos.
+No, porque los gringos son los gringos, son los gringos.
+No, porque los gringos son gringos, son los gringos
+No, porque los gringos no son gringos, son los gringos.
+
+
+
+Index: 50 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+
+No se, pero no se si los wns son puros wns.
+
+Para las personas que tienen en el estado, ese es una wea de cambio que hace ayer, pero no lo sé porque la gente es tan caro y el resto del país no tiene mucho menos. La cagó.
+
+Si es porque la gente es tan caro, no es tan caro, hay una gente con más que nada de menos.
+
+Por que es tan caro o no?
+Que wea la derecha?
+No me gusta
+No me gusta, es tan caro
+no sé que tuve que pasar a algo así.
+Ya weon, yo solo veo a que esta wea, la derecha.
+
+
+
+Index: 51 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Hola como estás?
+Que paja que se le olvidó que el chupar el pico el pico, el pico solo tiene la raja
+A mi me parece que esta el chupapel de mi hermano, el que no entiende una cámara o el chupar la plata y lo encuentro una plata.
+
+
+
+Index: 52 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+Yo creo que no se puede hacer, pero esa misma wea era una mierda y ahora me dio mucha risa. 
+
+
+No lo sé, si el problema del gobierno de Boric tiene una solución a la gente con la ciudad en Chile porque le gusta su familia, ya queda algo así... o sea, claramente hay que habrá que todo para los medios mas bienes que votarán rechazo. Pero igual fue bueno pa la mayoría de las protestas de Pinochet/Hoy de derecha. No tengo idea cuando te preguntan ni nada de "cómo vuelva", yo soy partidario de una persona qlo seria entre ellos y otros wns que tenemos en la misma hora de escuchar de la gente que solo hemos usado xd. El tema de Kast nunca va a decirme mal.
+
+
+
+Index: 53 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+No se si es una mierda, solo me puede hacerlo.
+Yo creo que la gente debe ser algo tan inútil y siempre habrá pasado porque a veces no lo he leído el mundo pero ya fue en el problema.  Me quedo con los jefes que tenemos para despedirte del nombre.
+El otro día era una wea raro qlia que tengo que ver las cosas sobrevivir ciertas
+Para ser presidente de la derecha: ¿Cómo vivimos todos sabemos te gustan este wn?
+Ya tiene mas de la misma hermana! El único que tuve que usarle eso así XD 😳😳🏽
+Que lindojo bueno...
+
+
+
+Index: 54 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Hola como estás?
+Solo una de las cosas que se ponen en la cabeza. Yo trataba de hacer el mismo saco de la wea, al final del día mezcla y al fin hasta la wea no iba. Pero ese es lo que más bien con las dos veces. Ahora tiene muchas horas de trabajar a la vieja. Eso fue un par de "mientras más" o al serían los otros países para que les gustaban mas, pero nada porque nunca tuve sueltenció tus propios compañeros. Que te falta de escribirse cuidado que era una de la verdadera jajaja
+Yo vivo en el sur solo apunta en Chile y siempre nos entendié mal salió todo el momento en el postgrado... No tenía q decirte ni recuerdo, le había pensado mucha risa ahora..
+
+
+
+Index: 55 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+.
+
+
+
+Index: 56 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+.
+
+
+
+Index: 57 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+.
+
+
+
+Index: 58 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+.
+
+
+
+Index: 59 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+El weon va a quedar con esa wea y no lo sé.
+Jajaja pero me carga que era una mala idea de la ley, cuando hablaba de la ley de "el que puede hacer algo" del "el" que hace años de estado de cierto sentido, porque se veía más que "el" en los que llegaba una cosa, el que lo hace al.
+
+
+
+Index: 60 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Hola como estás?
+La verdad es que si hay una ley, hay que ser una cosa de que no me dieron nada, el caso de la vida mas que hace a los venezolanos
+En volá, qué hay que hacerte eso?
+Y yo creo que en mi experiencia, no soy el chileno
+El chileno... pero si el chileno es una paja
+Ese es una paja
+Pero si te lo veo el chiste para el pueblo
+El chileno es una paja
+Todo es una paja
+
+Sincerament Unga
+Nunca he vivido.  
+
+No entendes el chileno, y el chileno es una paja
+"Pero wn más chileno"
+Pero que tienes una paja
+Nunca le tiraría pailita muy bien, no te gusta.
+
+
+
+Index: 61 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+Me gusta el video de una amiga que le decía "el chileno promedio" y se me olvidó la verdad, pero no es porque nadie hablaba en la cabeza. No lo hace más.
+La wea buena, a mi hermano parece que todos loswei con la foto del donde viven en la cabeza iba a comprar algo para escucharme una cagá en la boca. Me encanta cuando llegaban las noticias jajaja
+El chiste corto, yo también fue el chiste corto, siempre pensé que era el chiste corto. Yo tenía una vez de la misma cara ronda xD
+Yo creo que ya estaba en la misma cabeza y ahora si quiero seria la misma cabeza...
+
+
+
+Index: 62 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+Sí, pero siempre me dijo que no es una forma de hablar en el mundo y puedes hacerlo. Y ahora hay algo malo para que seguir cambiando la idea de lo que ocurrietrico. Es más fácil ser bien distinto a todo el mundo. Lo que digo porque si existe mas tiempo con los gringos cuando son buenos.  El problema del gobierno funciona: "el país" nos tiene que irse a pelear a su casa. Si nada donde sea ni menos quieres solo usarlos las weas tan fuerzas igual... Como vamos a salir desde una marcha guerra contra la inversión civilizada chilena fue asi que era de derecha.
+
+
+
+Index: 63 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Hola como estás? Me pasó con lo que dice el wn de la empresa.
+"No son muy buenos, pero las cámaras nunca hablaban en el mundo".
+El título iba a ser una pega para llegar al pudús, nada mas bajita
+Era verdadera porque ese viejo fue una foto que sigue siendo peligroso y cuando me llamaba a la primera otra persona jaja!
+Dijo que tiene que hacer una frase así...
+
+
+
+Index: 64 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Hola como estás?
+Que raro que eso es una persona que no tiene sentido común, pero que no se puede hacer lo que quieran, pero eso es lo que quieran, pero es lo que estás.
+
+
+
+Index: 65 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Hola como estás?
+Si, me refería a la mente del mundo en la ciudad, de ahí, el tipo es una raja, pero me queda la raja.
+Yo también en mi ciudad me hizo algo muy difícil y cuando iba a decir que esto se me preguntaba y decir que esto se me había tocado con una ciudad muy cercana en mi país, porque me hizo en mi casa hizo una vida, pero que es me había afectado en la pega de la que se me hizo algo y que está me había en su cara.
+Porque en el mundo de la ciudad de mi familia había dejado afectado a la ciudad muy cercana en el mundo, que eso no me hizo cierto, cuando era muy cierto.
+
+
+
+Index: 66 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Hola como estás?
+Ya pero si no tienes una carrera donde se trata de uno o no?
+Ya pero si no tienes una carrera donde se trata de uno
+No hay que otro nivel de empate
+Estoy en la mierda porque se le va a sacar el más barato, si quieres la mierda a la gente
+
+No puede vivir el tema a nivel de empate
+Es que lo viejo la "empate".
+No vivir al final y como le va a quedar con el tema de empate, todo es el tema de empate
+Mira de vida
+El pudúblico.
+Pudúblico
+No te puedes culpa de la otra wea
+Pudúblico
+Nueva mierda de empate
+Es una wea
+Un buen punto
+Estamos.  que mierda.
+
+
+
+Index: 67 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+Yo creo que la mayoría de los derechos humanos no se hace el nombre, y si te gusta la mayoría de los derechos humanos no se hace el nombre, porque no tienes que ver con el nombre.
+
+
+
+Index: 68 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+Yo pensaba que hay una vieja que me llevaba a la calle, y le dijo que esa persona no tiene nada que ver con lo que quieras, pero era una cosa. Me había gustado harto porque "estar peleando" llorando y qué pasó la caga, aunque se llama "peleando" por el nombre de la calle.
+Yo siento que tenía que ir a la cabeza a la foto a una amiga y ya lo encontrépida. No había gustado nada de lo que me gustaba.
+Porque me parece que los mismos chilenos son los que eran chilenos, ojalá no se han había escuchado de más del mundo y cuando había escuchado los mismos chilenos, también algo malo, si está malo que una cita.
+
+
+
+Index: 69 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Hola como estás?
+No se si lo va a hacer, pero si hay una de las cuestiones donde el gobierno cambio la constitución por el 2019, no se si solo que es tan bien. La wea es que estamos con los pacos y la gente del apruebo es muy muy fuerte, porque puede ser menos que este tú no tiene. Hay que salir del país a la gente y de verdad algo que no le estamos en contra del gobierno.
+Solo vamos a buscar una persona muy muy bonita, una persona que no te hace que respondió en la persona o seguimos, eso si en una opcion tampoco me gusta, y yo no se que esperaba porque afecta la culpa
+Algo así es que alguien se la vamos con cambio para votar.
+
+
+
+Index: 70 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+La cagó, no se puede ser de los que votaron rechazo. 
+
+
+Y si lo haces en el mismo saco del rechazo es una wea tan rara y conocida porque las cosas más bien son "no mas" o "no". La gente va a pasar para la caga algo así xd
+Por qué chucha tengo entendido que este post quería que me gustaría verlo? Yo creo que le preguntaste mucho pero mi opinion...
+
+
+
+Index: 71 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+No lo sé, porque me da risa que no es una wea de mierda. No creo que sea tan bien o nada con la razón de que se le puede dar cuenta a su mamá y el hombre tiene una típica en la cabeza que los flaites qliaos llevan sin una cabeza de cebra. Si te vuelva a haber algo malo entonces jajaja pero ya... 
+
+
+Que rabia wn
+Jajajajajjaja qué onda vergüenza
+Yaaahh ahora si era para mi papa..
+
+
+
+Index: 72 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Hola como estás?
+Pero si era de los que lo hacen en los últimos 10 años no les gusta ni una sola. Ya habrán hecho la wea del tiempo, y ese perro puro que le dije:  porque las nubes ahora con el chiste antes me da para la cabeza. El chiste tiene más bien entonces siempre todo el caballero! Lo peor fue que se quedó al baño juntando :O
+No hay que vivir así xD
+Y te llegaste a ver... Aprovechando el mismo "toma"
+Santiago foto de la vida.
+
+
+
+Index: 73 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Hola como estás?
+Pero si la gente no está en contra de la izquierda, el gobierno se ha demostrado que está en contra de la izquierda, pero si no lo hace, el gobierno no hace.
+No se puede esperar porque la gente no tiene que ver con la izquierda.
+
+
+
+Index: 74 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Hola como estás?
+No hay que ser una "reforma" y el PC se puede negar que uno no tiene idea de la izquierda y no tiene nada que ver con la izquierda.
+
+
+
+Index: 75 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Hola como estás? Si no lo hacen, sí la verdad se puede aprender hacer que los pacos no han ido a hacer, y aún así las weas como están si quiero están haciendo con harto de los que están acostumbrados del gobierno.
+Este subreddit está muerto debería haberla cachado que es el de las comunicaciones de la gente por su cabeza
+No es porque no debe ser el hecho de estar el poder de una buena para el pais a alguien.
+No está muerto a nadie
+Jajajaj JPMorgan por favor de la derecha pero ese no debe ser buena, ni debe ser buena.
+
+
+
+Index: 76 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Hola como estás?
+La gente que vota apruebo no se queda bien, pero no se queda bien.
+Yo no voto apruebo, me gusta, pero la gente que voto apruebo, pero la gente que voto apruebo.
+El mismísimo "cualquier cosa" que es de derecha.
+Mejor que la gente que vota apruebo.
+
+
+
+Index: 77 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Hola como estás?
+Ya pero el wn ya tenía razón
+La mayoría de los cabros chicos debería ser chileno en general, si son una buena persona con buena pega, no una buena persona por lo menos.
+Ya pero la stripes deberia ser mas aweonao... 
+En una zona de película se estará lleno de fideos
+Ya parece a todo parecido algunos ctm
+Yo no soy de nombre y ni siquiera hacer algo como ese más dulce
+Es un pendejo de su foto con pelo que tiene a tu amigo para que me había pasado, pero en el hoyo era el wn de película
+Ojalá esa esa es la culpa de la culpa de las películas. Y no soy de nombre.
+
+
+
+Index: 78 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Hola como estás? Parece que esto no es solo un error de la falta de respeto.
+Dejame algo con eso pero me acuerdo de una que ya se cagaba, porque nada, por una película, cuidado y no por un chiquitito
+Yo nunca tenía mucha prueba para aplicar la gente para no hacer lo mismo a los papás.
+Este es el meme, me parece que me gustaba como una wea es una
+
+Y ahora el video buen video del ciclista
+Como la falta de respeto aislar en el subreddit con el presidente de las calles de la nacionalidad de la bateria.
+
+
+
+Index: 79 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Hola como estás?
+El problema es que no hay ningún país de izquierda, porque los demás se han cambiado con la derecha. Y en fin, si bien tiene una democracia y lo apoyo o simplemente el sistema político para mantenerlo a su vida, puedes quedarme desde todo lo contrario. Si Boric te ayudas a votar por este wn mientras las cosas ya hablamos del gobierno de Chile: “hasta el weon” también tenemos muchos "facho" pero ahora deben ser menos mas gente dura, ni idea que nunca le gusta. El presidente va a salir de tu casa al mismo lugar de que Kast podría decirle "saltarán". No sabes así :c
+Solo mejor trabajaste en la foto iglesia de una carrera jajaja.
+
+
+
+Index: 80 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Hola como estás?
+Me siento mal apprentice del pueblo
+El pueblo se va a llamar un paco y los wns tienen que estar bien para evitar la carrera. Ahora, si lo vemos harto esa wea xd ya mas fea :'
+No debería ser capaz de creer el video jaj whirlwind
+Pucha no tiene nada más!
+Igual me gusta que chucha con eso cuando le decia así...
+
+
+
+Index: 81 
+Starter Text: Hola como estás? 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Hola como estás? Es porque no sé, los weones que van a cambiar una o dos veces saben de cada forma.
+Yo me hago todo pareja... En la tarde lo tenía en que conozco y mi hermanito le gustaba el pan o seguridad entero alcanzado. De esa época iba a salir mas al lindo si suena cuando empezólico era músico xD jajaja. Me caí tan bien pero después del pan ahora sin pulento
+Ufff pensaba desagradable
+Por supuesto igual tiene una noticia q llamaba "unidad" para decir que hay más grande 
+
+
+De la chica que fue fui aplauden en la pega escuela y te quedaron los pies!
+Sigual son gente acordos
+Wnatico.
+

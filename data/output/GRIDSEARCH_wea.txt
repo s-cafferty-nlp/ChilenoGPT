@@ -1,0 +1,1111 @@
+
+
+Index: 1 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+Los venezolanos que han tenido que hacer eso son los que se han cometido una mierda, porque son los que no se han cometido una mierda.
+
+Los venezolanos que han tenido que hacer eso son los que no se han cometido una mierda, porque son los que no se han cometido una mierda.
+
+
+
+Index: 2 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+.
+
+
+
+Index: 3 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+Los venezolanos se pueden hacer, y el que lo hace, es el que hace, pero si no lo haces es el que hace, lo hace, es el que hace.
+
+
+
+A mi me hizo una casa de pana de un auto con un auto con una cartera, y me dijo que se lo hace un auto con un auto con un auto con un auto con un auto con un auto con un auto con un auto con un auto con un auto con un auto con un auto con un auto.
+
+No es un auto que no puede hacer, pero en auto no puede hacer.
+No es auto de auto, es car, es car, no puede ser un auto, es car, es car, pero puede ser el puede pagar, no puede ser una
+No, pero si no puede hacer no.
+No, es car, es car, es car, es car, puede ser car, es yields.
+
+
+
+Index: 4 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Los venezolanos que sean los que son más pobres y no más, son más pobres y no más, son más pobres y no más, son más pobres.
+
+Por eso no hay que ser una mierda en la vida real, pero no estamos ahi.
+
+
+
+Index: 5 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Los venezolanos que se ponen a la casa de la vieja en el metro son los que les gusta y les dicen que los venezolanos no les gustan los venezolanos
+Y los venezolanos que les gustan?
+El problema es que los venezolanos son los que le gustan, pero eso no son los que les gustan.
+
+
+
+Index: 6 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Los venezolanos son los mismos que en el resto del mundo, y los que les han encontrado alguna razón se queden como la muer Nissan, porque son los mismos que tienen autos con el resto del mundo.
+Yo siempre he pensado que en ese momento una wea de "el que no está pasado" y si lo ponen en la carrera es una wea del auto de la carrera.
+
+
+
+Index: 7 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Los venezolanos son más caros que los chilenos, y el resto de los países no se han matado a nadie.
+El problema es que la gente tiene mucho menos trabajadores para todo el mundo, pero si lo cual sería una solucipeople en generalmente puede darles algo como estudiar con su propia persona porque siempre o tienen las personas que te gustan.
+
+
+
+Index: 8 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Los venezolanos no les gustan los pacos, sino que el resto de los países son más caros.
+No se si es porque está la raja pero en Chile ya existen una gran cantidad de cosas como las weas que van a ser igual y también puede hacerlos con ellos. No hay ninguna gente para mucho menos ni lo que te quieren ocurrirse , entonces crees que tiene algo asístico. El problema del litio era que tenemos todo este tipo de código, solo nosotros desde suelenan en el medio ambiente de la economía y cuando trabajen solamente... Por ejemplo, donde tu argumento sea fuerte va a votar rechazo? Todo esperamos que habria propuesto a sus ideas políticas sociales y tampoco levantarán bien.
+
+
+
+Index: 9 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Los venezolanos son unos pocos que se han hecho, y los dejan muy bien por el estilo.
+Pero eso tiene mucho sentido en la historia de la ley que te quieres ver a este país  pero no sé si alguien va a dar cuenta que sea así como lo cualquiera para ellos mismos... Pero me gusta todo el mundo o menos túneles del mundo? Que ganas de las cosas de la gente ql lleva con los medios mas maletines de sus problemas y les van a decirles suficiente, quizás solo habría que apoyarse sin nada. Si yo creo que ya hay varios buenos ejos niños igual podría serlo.... Onda tuve que saber que fuerme de acuerdo que pasarán desde los pacos. La mayoría era fue tan fácil jajaja..
+
+
+
+Index: 10 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Los venezolanos son los que se pueden hacer en el país.
+
+Los que no son los que no son los que no son los que no son los que no son los que son los que son los que no son los que son los que son los que son los que son los que son los que son los que son
+
+Que pasa que eso no se puede hacer, eso eso no es lo mismo, eso no es lo mismo.
+
+
+
+Index: 11 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Los venezolanos se han robado los pacos.
+
+Si, pero no es así.
+
+Y no, no se porque el gobierno de Allende tiene una dictadura, ni eso es así.
+
+No es así, es así, pero es así, no es así.
+
+Es así, no es así.
+
+Es así, es así, no es así.
+
+Por que el gobierno de Allende tiene una dictadura.
+Por que el gobierno de Allende tiene una dictadura.
+
+No es así, es así.
+
+No se porque el gobierno de Allende tiene una dictadura
+
+No es así, es así.
+No es así, es así.
+
+No se porque el gobierno de Allende tiene una dictadura
+No es así, es así.
+
+
+
+Index: 12 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Los venezolanos no pueden ser tan malos en su propio país. No se si es una wea tan malo en su propio país, pero sigue siendo una wea malo por que no se puede hacer.
+
+En la U, no es una wea tan malo en su propio país, pero es una wea tan malo por que puede hacer, perderse y hacer.
+Que puede ser una wea tan malo en su propio país
+Que puede ser, pero es una wea tan malo porque, porque no es una wea tan malo, porque no es una wea tan malo porque no se puede hacer
+No estoy tan malo en su propio país, no es una wea tan malo en su propio país
+Porque, si no es el problema no?
+No.
+
+
+
+Index: 13 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Los venezolanos que hacen eso son los que se les acabó la cagá.
+
+Y si no fuera porque el estado debería ser más bienestar y más bienestar, la mayoría de los venezolanos que hacen son los que no saben en la vida.
+
+Pero si eso es que es una wea de los que se les acabamos a la cagá.
+
+
+
+Index: 14 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Los venezolanos de la misma manera son los mismos, no los han ido a ningun grupo, los mismos se les ponen a otro grupo para que sea una mierda y si le guste suficiente.
+
+
+
+Index: 15 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Los venezolanos son los que les hacen una vida a los pacos. Y el estado en general es más poderoso para la población, y si no se pueden evitar eso también seguirán haciendo uno con el estado de Chile, seguirán haciendo la mierda y el pobreza en su gobierno.
+Yo creo que los chinos no están de acostumbrados por la cagaron, pero no les gustarán el tema.
+
+
+
+Index: 16 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Los venezolanos son los que se han llevado años en la calle.
+Ya pero no me acuerdo de eso, el problema era que estoy con las cosas y si tienes que irse por una persona parecida como lo mismo para ellos o nosotros iba a ser más difícilmente igual...
+
+
+
+Index: 17 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Los venezolanos, los pacos y sus amigos son super bien cualquier wea que no tiene nada que ver con las empresas de la gente.
+Y eso ya se puede hacer una noticia en el caso del gobierno? 
+
+
+El problema realmente está porque mejor aún funciona para Chile... Pero si tengo una buena idea muy dificil como "cualquierda" pero igual lo vemos al principio. El chileno promedio fue solo o alguna razon. Y ahora sigue sin que todo. No le queda ni cuando era tan malo xd. Algo asi te van a decirte suerte en el sueño. Es falso.
+
+
+
+Index: 18 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Los venezolanos de la pobreza, en ese caso no hay nada que hacer.
+Parece que estás bien como el "saliado" y el "frito" del "chiste", los venezolanos con más rápido son las ruedas, pero si alguien se había quedado por todo lo mismo cuando les llevaban a un par de veces jajaja
+Yo me encantaría ser tan weon ql :'
+Ya po wn, gracias por tiempo xddD
+El ciclista le decía que era el santiaguino de la pobreza de los papeles llorando en los ciudades. La gente dició de que estaba suficiente para abajo?
+Me gustó el chiste corto, ahora tuve que pasarle la plata y que fue hermoso en el liceoqueza y otro lugar.
+
+
+
+Index: 19 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Los venezolanos son los que se hacen los pobres.
+
+Los que se hacen los pobres son los que se hacen los pobres.
+
+Los que se hacen los pobres son los que hacen los pobres.
+
+Los que hacen los pobres son los que hacen los pobres.
+
+
+
+Index: 20 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Los venezolanos que viven en Chile son los mismos que los que están con suerte. 
+
+Pero si no es una cosa que se habla en el mismo país, es una cosa que no es una cosa de "cómo se hacen" o que se habla en el mismo país, es una cosa que no se habla en el mismo país que no es una cómo se habla en el mismo país, es una cosa de "cómo se hac" o que se habla en el mismo país no es una cómo, es una cómo o que se habla en el mismo país, es una cómo que se habla en el mismo país que no es una cómo o que se habla en el mismo país, es una cómo no es que hac.
+
+
+
+Index: 21 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Los venezolanos, porque son los que no saben de la gente, no saben de nada, porque son los que pueden estar a los que no saben de la gente, porque son los que no saben del niño, porque son los que no saben del nada, o los que saben del niño son los que no saben del niño, no saben del niño.
+No es la solución de la puede ser.
+
+No, porque los que no saben de lo que saben de nada son los que no saben de la gente, porque son los que no saben de la gente, porque son los que no saben de nada, porque son los que son los que no saben del nada, porque son los que no saben de nada, o los que no saben del nada.
+
+No es lo que saben de nada.
+No es lo que saben de nada. No es la solución de la nada.
+
+
+
+Index: 22 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Los venezolanos que se han cambiado de esta wea, no les gusta el poder, pero eso es lo que quiere decir.
+Pero si la gente no es tan rica como el poder, no hay que ser tan bien como el poder.
+
+
+
+Index: 23 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Los venezolanos que están en contra de los países se ponen con los delincuentes y el delincuentes que no son tan ricos como la gente.
+
+Porque no es el problema de la realidad, la gente va a ser cualquiera o no. Es el problema de la realidad de la realidad de la gente, no es el problema de la realidad de la gente. Si es que hay una solución de los del resto del país que tiene el mismo país que también, porque no es el problema de la gente.
+
+
+
+Index: 24 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Los venezolanos tienen una buena pega que se ll projects como uno de los que están en el mundo, y si no es así, la derecha tiene el mismo lugar de que la gente se le puede hacer en el mismo país.
+
+Por otro lado, es una buena buena buena idea, el gobierno es una buena buena. 
+
+No me gusta mucho el chile
+No sé porque los gringos ni los gringos ni los gringos pero no les gusta mucho
+No loATHER.
+El estado de los que están con las buenas, pero es el mismo buenas.
+El que estado de los que estan en el mismo, es el mismo que está
+El mismo es el mismo
+Ya buenas, no es el mismo
+No lo que estado, lo último, lo último.
+
+
+
+Index: 25 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Los venezolanos que han sido los chilenos y no se quedan con las cámaras, son unos pocos más ricos.
+Pero si esa wea debería ser tan fácil comer en la cabeza? 
+
+
+Y aunque estoy leyendo el nombre del país desde antes que nosotros...
+
+
+
+Index: 26 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Los venezolanos no tienen idea de que los pendejos sean muy caros.
+El problema es que en Chile están cerca de un país, pero por lo menos la gente del mundo tiene el tema y muchas veces serían distintas otras weas, asi como si algunos les hacengan a los ch Blessed Sacramentes para que quien te van a robar con una foto 
+Porfa me gusto, gracias porque las ruedas son igual de "el mismo". Y ahora todo este wn era el mismo que sucede cuando llegue.
+Y bueno... La historia mas grande de los Chilenos ya fue el últimamente diferente. Es bien intencionalmente desconectado y crecimiento de los medios. El problema es que tenemos un poder de los medios de educación? No es nada más.
+
+
+
+Index: 27 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Los venezolanos hicieron uno de los paises mas ricos en la calle?
+El problema no es lo que se quiere, pero el occasio del sistema social seria muy parecido. El problema está aún con las mismas personas y sus códigos son iguales. Y si tienenemos todas menores como para darles carabineros porque habían pasado o no te van a decirte nada, ya hay muchos empatizar su sueño al ligerito. 
+
+ Es verdad que este tipo me da lo que nos guste despuya: "por favor". No tiene sentido contratado ni tu casi desaparecido... La mayoría podría elegir cosas como ejemplo cuando trabajadores fuera en Chile; yo nunca apoyamos una vez ahora.
+
+
+
+Index: 28 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+Los venezolanos que se les acabó la cagá de la risa son los que no saben ni siquiera saben ni siquiera saben.
+
+La cagó de la risa es que no saben ni siquiera saben ni siquiera saben.
+
+Es que no saben ni siquiera saben ni siquiera saben ni siquiera saben ni siquiera saben ni siquiera saben.
+Es que no saben ni siquiera saben ni siquiera saben ni siquiera saben ni siquiera saben.
+Es que no saben ni siquiera saben ni siquiera saben ni siquiera saben.
+Es que no saben ni siquiera saben ni siquiera saben ni siquiera saben.
+Es que no saben ni siquiera saben ni siquiera saben ni siquiera saben.
+Es que no saben ni siquiera saben ni siquiera saben ni siquiera saben.
+
+
+
+Index: 29 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+Los venezolanos que se acuerdan de que los gringos hacen eso y los que no están con la gente que los venezolanos quieren, pero en ese entonces no les gustan los gringos.
+
+Los venezolanos no son unos weones que sean más "perjudicados", pero los que no sean más "perjudicados".
+Por eso mismo, si los que no sean más perjudicados, los que no sean más perjudicados
+
+Yo no tengo la vida de la misma palabra que los gringos, no sean más perjudicados
+
+Ya no puede ser el mismo que la misma palabra de los gringos.
+
+
+
+Index: 30 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+Los venezolanos de la izquierda vienen los que no sab Bender.
+
+No sé si ese es el único que no tiene ni una wea de los que tienen.
+
+Pero que se puede hacer el estallido social?
+Ya, porque eso que el estallido social es la gente más estallado del pobre del mundo.
+Ya, porque es el estallido social es el más estallado de la izquierda y el estallido social es el pobre
+Oye pero que es el estallido social y estallido es el pobre.
+
+
+
+Index: 31 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Los venezolanos no tienen nada que ver con la misma wea.
+
+No se si es una mierda, pero en el mundo de los venezolanos no están ni ahí.
+
+Porque eso no es tan simple como el que te diga que no puede ser tan simple como el que sea el que sea el que sea el que sea el que sea el que sea el que sea el que sea el.
+
+
+
+Index: 32 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Los venezolanos deberían ser tan weones como si fueran los que no saben cómo le van a querer ir a la gente sin saber, pero eso no se trata de que están haciendo.
+Porque no es una mierda, ni una persona que tiene el poder de su vida, ni una persona que tiene el poder de su vida, ni una persona que tiene el poder de su vida, no tiene el poder de su vida.
+Solo con el que no haya estado en su vida.
+Si no es el poder de su vida, ni una persona que tiene el poder de su vida.
+No lo creo, es una mierda, porque es una mierda.
+
+
+
+Index: 33 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Los venezolanos que han pasado en la noche son los mismos.
+
+
+
+Index: 34 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Los venezolanos no son los que se les olvidó de la gente, porque si están en contra de las personas y el resto del mundo.
+La mayoría siempre ha sido una mierda aun mas que también esperando que hacerlo para que puedan ser como "los chilenos" pero algo así que hay muchos otros paises llorones lo mismo con suficiente?
+Yo creo que cuando era una wea menos cagada de pelotudo mejor que tuve que leerla todo el día de la carrera, yo solo tenia que ver quienes usar la carrera de la mano y ya pasaba antes...
+
+
+
+Index: 35 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Los venezolanos son los que no tienen nada de impuestos.
+Que paja seguir siendo algo como para ver el tema, pero ese tipo de cosas lo hace porque ya hay una vez en la tele y era buena onda con esta razon, mejoraría del metro? Osea igual otro día iba a decirle las leyes que yo mismo, cuando quiero más fácil todo bien cambiarlo suficiente xD
+Para ser asísimo te recuerdas... No existe espero mi papá, siempre pensé que sea mas malo. Es solo una persona que tuve una de las medidas de inversiones que tiene menos. La gente habla mucho antes.
+
+
+
+Index: 36 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Los venezolanos han hecho algunos en el país porque no se ha pasado nada.
+Si los que son pobres, siempre lo están buscando y esperar a una gente como hermana de "no tener miedo" para que la otra persona ni cagando izquierda le sacaran una foto sin dar pena. Si bien si te refieres con el valor del agua, tuvo que tiene que verlo y lleguen, pero después quieron que aprender cosas desde los pacos ahí, quizás todo lo escucho cuando ya vemos mas efectivamente mejor. En realidad iguales q nosotros eran tan weones asi jajaja :/s
+El problema fue que les encontraste suficiente para acá, yo creo que era mentiría solo hasta las pelotas...
+
+
+
+Index: 37 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Los venezolanos son los que no son los que son los que no son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son los que son owners.
+
+
+
+Index: 38 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Los venezolanos, el pueblo, la wea y los otros países están en contra de los demás
+
+Ya pero no puedo entender que los pacos son los que tienen que hacer eso en el estado, pero no los pacos son los que tienen que hacer en el estado.
+
+
+
+Index: 39 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+.
+
+
+
+Index: 40 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Los venezolanos que sean tan malos son los que hacen los ciclistas, pero no les gusta la verdad.
+
+El problema es que no es una solución de los pacos, porque estamos en el estado y no es el problema. Por lo menos no tener que hacer que hacerlo a los pacos.
+
+Ya, si no es una solución de los pacos, por lo menos no es el problema. Por lo menos no es el problema.
+
+
+
+Index: 41 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Los venezolanos que tienen una paja de verdad no son capaces de decir que los delincuentes se han estado cambiado en la calle.
+
+Los pacos no son capaces de decir que los delincuentes se han estado cambiado en la calle, los pacos son capaces de decir que los delincuentes
+No sé si es porque el resto de los pacos son capaces de decir que los delincuentes
+Ya, pero si es que no solo el resto de los pacos
+Aún así como esto aunque la gente les quiere que te hace el país en el culo
+
+Yo creo que los pacos se han estan de vacaciones, y la cagó
+Ese es la raja, porque el pico es la mierda y la gente quiere
+Eso es la cagaron.
+El problema es que no es que no se hacen que espera.
+
+
+
+Index: 42 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Los venezolanos y los que no son "los mejores" que están en el país.
+
+Pero si la mayoría de las regiones no tiene nada que ver con lo que se hace en ese gobierno, pero siempre todos sabemos que es una ley de Chile aun mas de esas estatales o pueden usar esa razon de una mierda  
+
+Porque si no fueran los comentarios de los últimos años. Tampoco también existen los que no son muy buenos. No es porque estos se hacen una línea y se haciendo una otra cosa en el país.
+
+No se que puedo decir que se acabarán los mismos años y por eso estIO deberían debe ser uno.
+
+
+
+Index: 43 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Los venezolanos son más ricos que los delincuentes, pero el país no es lo mismo.
+
+
+
+Index: 44 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Los venezolanos no tienen ninguna capacidad de trabajar, si se puede hacer la cagá en el país es como una mierda para que siempre hay algo y estamos aplaudiendo.
+También los cabros chilenos son mas "cursed" o "despobres", porque todos sabemos que lo mismo con la gente que les gustan las cosas pero este weon
+Que penca? Que raro tu crees que te van a aprender del meme wn...
+
+
+
+Index: 45 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Los venezolanos no saben donde había ocurrido si quieres que los chinos sean más ricos. 
+
+El estereotipo de Los gringos es una weá que te puede decir porque "por la gente del mundo" y el perro siempre va a ser mucho mas racista, lo peor que todos los países hacen en su mayoría.
+
+
+Es como este post igual hay varias veces que son bienvenidos con tanto amigos xd
+Ayer cambió Kast le gustaría la nada, alguien me falta de la razónica cuando estaba trabajadora? O'higgins fue una escena de una escena de luz y hasta una escena de una escena de razónica...
+
+
+
+Index: 46 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Los venezolanos no son los mismos que nosotros.
+
+Ya pero si los venezolanos son los mismos que nosotros.
+
+Pero si eso no es lo mismo que la mayoría de los venezolanos.
+Pero si no es lo mismo que la mayoría de los venezolanos.
+Pero si no es lo mismo que la mayoría de los venezolanos.
+
+
+
+Index: 47 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Los venezolanos están en contra de los países, no de los países que no sean tan ricos como los delitos, es una gran cosa más difícil de ser el mismo, como la víctima, la población, porque es una de los que no están difícil de su propia nación y porque están los países no tienen mas ricos, porque están dejando las de la realidad, porque no están dejando la realidad de los que están dejando las de su propia nación y el que están dejando la realidad de los países.
+
+Por que no están en contra de las de los que están dejando en contra de los países?
+No.
+No.
+
+No.
+No,
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+
+
+
+Index: 48 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Los venezolanos, de la nación de los que vienen de la ciudadanía, viven en los últimos 4 años aprox, porque son los países mas bien que les gustan el resto de los chilenos
+Es que el problema es que son los "estados unidos" de ciudadanos, los que se enfrentan en los que venden la ciudad de vivir. Los del estado de las regiones son los del países, y los que venden en los que estados de ciudad y todo.
+Es que son los países que son los países que no? 
+Es que estados unidos, perritos, los que sean.
+
+El perrito de los perritos y el tren de los que sean
+
+Esa bolsa de los perritos es ci
+En realidad es el perrito de los """tren"""tren de los"""tren de los"""tren de los que son.
+
+
+
+Index: 49 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Los venezolanos que se han cambiado en la vida son los mismos que los que están en contra de la izquierda.
+
+El tema es que los delincuentes son los mismos que los que están en contra de la izquierda, y el mismo que los que están en contra de la izquierda.
+
+El mismo que no tiene que ver con la izquierda es una mierda
+No es tan poca gente, es que también porque no es tan poca.
+Pero eso no te puede decir que la derecha, pero que el mismo que no es tan poca gente.
+Pero eso no es tan poca, no es tan poca, si no te puede decir que la derecha.
+
+
+
+Index: 50 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Los venezolanos en chile no es una solución, ni siquiera se puede usar para hacer una solución.
+El mismo lugar de la muerte del "nueva constitución" tiene una que ver con la cosa en las marchas, el mismo día del rechazo que fue a los pacos y el pico se llamaba a los pacos de la gente, la mayoría de los pacos, y la policia no le gusta porque se les gusta la nueva constitución.
+Siento que los pacos son los gringos, pero están muy peligrosos y no? No son los pacos pero el mismo que el que se llamaba los pacos, pero están peligros.
+Pero en los últimos años están peligros
+Ya weon, pero en la calle.
+
+
+
+Index: 51 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Los venezolanos piensan que esa es la raja y debe ser más caro.
+Que pena eso? Es una razón paraSharePorn?
+No, pero no se si lo cambia ni nada. Es una razón para share porn?
+
+Mira, es porque esa mamá es una razón para estudiante.
+Yo soy uno de los venezolanos piensen que no tiene de esta razón, yo uno de los venezolanos, es para tenerlos debeños y de los de los pobres, y se puede tomar el harto, lo que está en estados donde
+La wea es mala y mas piola
+Lo que puede ser
+Mejor que mejor que no, a veces esto, ahi te lo mencionas.
+
+
+
+Index: 52 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Los venezolanos que tienen más de 10 años, por lo mismo no los van a poder hacer eso.
+No sé si la gente tiene una cosa en el país pero con esto se les ocurre mucho mas eficiente para ellos. El problema del gobierno y los chilenos son las weas como "los unicos". La verdad tampoco mejor que nos quieren todo su propia política ni nada. Pero ahora hay que algo asi fue cuando ya le gustaría que Chile era tan malo 
+
+
+Que lindo, te dicen que este wn sea bueno
+Y después de ser una razónimo?
+Yo creo que solo sabes que yo...
+
+
+
+Index: 53 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Los venezolanos son muy diferentes y no tienen ninguna experiencia de los casos, eso si está en la última vez.
+El problema del país con los chilenos fue que habían puros amigos a la cosa, pero las políticas señales hicieron una "la verdad", porque mejoraría para el mismo grupo de los trabajadores serán mucho mas chicos como los weones que quemados o lo peor... La mayoría iba desde este país era demasiado caro, ya estaba algo tan rica, sin que tomaría el metro. Por ella encontraría cuando llegue a mi familia siempre le mandaba una cara a sus cabros, asi nosotros juntamos de buenos, despues de su hijo y te dijo que fuera tuvo que buscar una camioneta de una hora y les va a robar.
+
+
+
+Index: 54 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Los venezolanos han sido asados por el tiempo, y en la ciudad le dicen que no hay ninguna mala idea.
+Y si esas son las palabras de este tipo ya van a ser una buena onda estilo
+Me gusta el wn con una película, pero para el pajero xd
+El cabro chico solo tiene mas frio cuando lo vi una cagada del auto o algo como el lugar que me preocupa la cumplea
+Yo creo que soy hermano?
+En vez del auto fue en los recreos era super carne iba por primera vez que se pusieron todo
+Esa wea siempre usado bajo el camionista
+Cazuela sufrimienta
+Tengo el panque
+Estárselo
+Nunca quien dice que estaba jefe el panque
+Pues tuve que agradecer el panque...
+
+
+
+Index: 55 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+Los venezolanos que han tenido una gran cantidad de venezolanos que no sean los mismos que sean los mismos que no sean los mismos que sean los mismos que sean.
+
+Los que no son los mismos que sean son los mismos que sean son los mismos que sean.
+
+
+
+Index: 56 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+Los venezolanos que han hecho los pacos porque les dan una población de una mierda en la calle, que se les olvidó que se han dicho que son los pacos, y que son los pacos que han he visto en la calle.
+
+
+
+Index: 57 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+Los venezolanos hablan de lo que está haciendo, porque esa es la gente que hace mucho peso y es muy difícil hacerlo.
+
+Y también te la pasa
+Pero si no es una mujer.
+Hace unos años una bici que le disparo a los que vende, y no por es una bici que le disparo a los que vende y no les vende, no se pues estoy seguro.
+Te quiero que la mujer que los venezolanos esta buscando, no van a dar la mujer que le disparo a los que seguidos, porque no van a una bici, porque es el mujer se lo va a hacer.
+
+
+
+Index: 58 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Los venezolanos no son los que se quedan en el mismo saco de weas, son los que se quedan en el mismo saco de weas.
+
+El problema es que no clutching porque la gente se le queda a la mierda, pero el que tiene la cagada vez que hace que hacer eso esa wea y que se quiere, y que lo pueda hacer es una cagada vez que hace que hace.
+
+
+
+Index: 59 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Los venezolanos son más ricos y conocidos.
+La mayoría de los venezolanos no son capaces de hacer nada porque les gusta el estado, pero en ese caso la mayoría de los venezolanos no son capaces de ir a su propio país, pero en el caso seguirán igual es una mierda.
+
+
+
+Index: 60 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Los venezolanos son los delincuentes, son los que no son los delincuentes.
+
+La verdad es que ese es una falta de deportación de las empresas, aumentar la violencia, incluso desarrollo de los que no tienen ninguna propuesta para poder controlar la inflación, y con ejercerrselos. En general el problema no se es que es el que lo tambien lo han demuestra en una empresa, no es el que estuviera haciendo los venezolanos.
+Esto fue porque si quieres el miedo, pero porque las personas no leyaron todo el día a los que eran en el mismo lugar y que tienen el mismo lugar.
+Este gimnambién tiene una caja de crimen.
+Aprendí suena más tranquilo.
+Muy buena idea, que no te creo.
+
+
+
+Index: 61 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Los venezolanos no se quedan tan mal, los que van a tener en el poder dejar la cagá porque son más rápido.
+Es una wea de eso, pero como dije "no estoy haciendo nada" y te apuesto que había pasado? 
+
+
+Porque si lo único que he pensado con es que las protestas siempre fueron bien antes del apruebo les dicen algo otra vez cuando tenídate su propia guerra de chile sin desarrollados para que salga una de la UDI leyó a la situacion, asi que ya sea mucho mas probable que ellos mismos mencionaron.
+
+
+
+Index: 62 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Los venezolanos son los que se van a rechazar.
+Pero no, la realidad es que todo lo demás está bien de la pobreza y que por ende más encima mejorarán el gobierno del mundo como las "comunistas".  El problema era que algo en el 2019 fue hacer una falta de economía política de la sociedad chilena, pero para que hablamos con la wea menos tan inútil o cualquiera su propia efrica actualmente. Lo mismo creo que si le dices tu solución a mi trabajo. O sea igual tiene muchos tipos mas plata jajaja y siempre también te obligaron a mantener el proceso de información sobre la clase de salud mental. Y yo solo quiero decir que apoyarlo así...
+
+
+
+Index: 63 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Los venezolanos son lo mismo. El que menos mal no es una wea, solo se queda muy rápida
+Y yo le faltó el cielo y hizo una canción de gente que tenía en las manos con los venezolanos para hacer la mano pero ahora estoy siendo una de la canción de los venezolanos del jajaja
+Pero tengo entendido que su hijo mejor pico porque mi papá era "el que habrá" y llegó a usar cuando estaba una wea ya o alcanza?  como q sea tan bOctober siempre fue el nombre diciendo de todo
+Bueno igual comprofalo, pasaba antes hasta el tipo de gente sin casi ni apoyo
+Yo soy chileno, gracias! 🥲
+El video dijo "Oye, aquí hay que ser humano?" wn...
+
+
+
+Index: 64 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Los venezolanos se pueden hacer en el lugar, pero no es que los pacos sean tan pobres, pero es que los pacos sean tan pobres.
+
+Los venezolanos no se pueden hacer en el lugar, pero es que los pacos sean tan pobres.
+
+
+
+Index: 65 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Los venezolanos y los pacos son una mierda, y los han ido a la derecha que se les olvida que la derecha no es una mierda, porque no les gusta la mierda ni la izquierda, si no les gusta la derecha, que le gusta la mierda a los pacos.
+
+
+
+Index: 66 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Los venezolanos son muy de esas, si lo vemos es que la mayoría de los venezolanos son muy viviendoseos.
+¿Y cómo estamos esperando?
+
+El tema es que le pasa por el tio que la mayoría de los venezolanos no son tan malvados.
+
+La mayoría de los venezolanos son muy viviendose
+Cada vez que esperando en el tio?
+Este no se veo que se acabra mala de las ruedas de los venezolanos.
+Tanto ají que estos weones
+En verdad no fue porque la mayoría de los venezolanos no se habia visto porque los venezolanos.
+
+
+
+Index: 67 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Los venezolanos son de los que se han hecho una wea de la derecha, y los que han hecho una wea de la derecha son de los que se han hecho una wea de la derecha, y los que han hecho una wea de la derecha son de los que han hecho una wea de la derecha.
+
+
+
+Index: 68 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Los venezolanos no son sólo los que viven en los estados.
+El ctm me gusta el video
+Es que eso es poco mas aweonao que la wea, pero que tengo en los ciclos de mierda
+El ciclista es piola y te acordaste como una pikachu que no entiende que no tiene nada que ver.
+No era la wea, otro día
+La mamá que se lo encuentra en una wea
+El wn que no sabe que fue muy buena la wea pero ni dejita, pero con la wea
+Me gusta el video.
+
+
+
+Index: 69 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Los venezolanos viven en esa pega, pero cada vez querolley y de las vacunas van a poder comer una enfermera, hay que hacer que el país seguirá en Chile.
+
+Y las tres son tan lindas de los últimos 3 casos que se dieron cuenta, pero como yo.
+
+
+
+Index: 70 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Los venezolanos, porque no son los que se han hecho en la vida real.
+No es el mejor país de Chile, pero esta wea ya había una buena foto del mundo y pareciera que quedar con los más grandes problemas. Los chilenos tienen que ser parte de los cambios como las fuerzas para tomarse a los niveles de baterías ilegales, o algunos trabajadores y medios de producción de litio. Pero lo mismo cuando les importa el mundo entre ellos siempre hay que solo menos diferentes, si le prenden que muchos casi nosotros eran demasiado antes. Todo espero que tiene que verlos que usarlo así, ahora creo que yo te digo que igualmente pasaba después de su hijo, sin saber ni pensarme jaja...
+
+
+
+Index: 71 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Los venezolanos han tenido que ir a la página.
+Si eso ya los weones habían dado suerte, pero no son tan inútiles como el estilo de tu casa y se ve como una empresa muy bien intenso en una situación de "tremendo" país. Es increíble lo mismo si porque me llegó una tasa de cuando  para caminar a carabineros xd. Aunque solo quiero entonces las calles rompieron el celular en la sala, al final todo o que podría ayudar a comprar el páginas y el resto. Ese era mi primer amigo con el pan y te apuñalizarán. Que pasaron mas despues de lejos...
+
+
+
+Index: 72 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Los venezolanos son los que andan con puros perros
+Eso es como el delito, se refiere a cómo lo hacen una wea. Onda debe ser envidia y entre los japoneses 
+
+ Tengo una experiencia bien desgracia para todos lados, porque no están preparados al respecto u otros factores. Es parte de la idea de sus votantes, ocultados. Por lo mismo si podemos más darle muchas veces el país las cosas para evangécnicas solo e inútilmente tratarles y levantadamente? Piensa que debajo siempre cuando tu argumento ya saliendo fácil... Y pensar que te quiere decirlo xd, me acuerdo haber suficiente vergüenza también: "Pero" y nada..
+
+
+
+Index: 73 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Los venezolanos son más "protestantes" que los que se les pueden dar en la plaza.
+
+No sé si es porque no son una protesta. Pero no son los que se les pueden dar en la plaza.
+El problema es que los pacos no son "protestantes" porque no son los que se les pueden dar en la plaza.
+Y si los pacos son "protestantes" porque no son los que se les pueden dar en la plaza.
+No son los que se les pueden dar en la plaza.
+El problema es que los pacos no son una protesta.
+
+
+
+Index: 74 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Los venezolanos que habían puesto el mismo "máximo"  
+
+
+Que es una vieja ql, una piedra
+El que no sabe nada que lo leer es que haya sido.
+
+Que es una persona que hizo algo de raja, la cagada vez que hizo la mano a los más pobres.
+Es una de esos.
+
+Y aunque?
+Es una persona que tiene de carabineros
+Es una persona que tiene de carabineros.
+Si, es que tiene de carabineros.
+Es una persona que tiene de carabineros
+No es carabineros
+No. Es una persona que tiene de carabineros.
+No.
+No.
+No.
+No.
+No, no.
+No.
+No, no.
+No, no.
+No, no.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+
+
+
+Index: 75 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Los venezolanos están los que se llamen a la derecha, y pueden haber sido otro derecho, no hay otra diferencia para nada que no haya alguien lo conocido.
+En Santiago, en general, hay mucho mas de lo que los que no son "anti izquierda". Pero de los que no son rechazarán por los delincuentes, esto es el "anti izquierda" y es de los que no. No se les pueden a los deja en las personas "anti izquierda".
+Esto no está ni deber izquierda ni de los que son rechazar por un gobierno "anti anti izquierda".
+Un abogado, de los que son rechazar por izquierda
+Otro que lo más fueron de la derecha
+Se vale a lo más fueron, de los que los deja.
+
+
+
+Index: 76 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Los venezolanos que hacen los mismos "rechazados" son unos pocos y los que no saben ni una wea.
+
+La mayoría de los venezolanos son como el "que lindo" del mundo, por lo que no se hace, los que están con los mismos que quieren que no saben ni una wea. 
+
+Siendo una wea de derecha es muy bien, siendo una wea de derecha, no hay en la raja.
+
+Porque eso es una wea de derecha?
+Es que tienes que hacerle una wea de derecha?
+Todos los mismos que están en los mismos que no saben ni una wea.
+
+
+
+Index: 77 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Los venezolanos dejaron de ver tele con la cara de los santiaguinos que le ponen algo tan desordenado.
+Me gustaría decir que son "santiaguinos" para una persona que no tiene nada de lo que sea, pero espero que esos países de chile se les deberian más a estos dos pobres hombres, por lo menos 
+
+Los que leíste son más "superiores" o "venezolanos" de su partido político y se le roben el tiempo a los pacos
+Ya pero...
+Los que son?
+Porque los que se pasan a pasar en los baños de la derecha
+La última parte del meme está en que fue a la "revoladores"
+Aguante los wns
+Aguante los que quieren
+Yo creo que son de izquierda.
+
+
+
+Index: 78 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Los venezolanos le aceptaron esta polémica en la ciudad.
+Ahhh y otras cosas cuando empieza a cambiar la situación...
+Estás hablando de la reforma?
+Qué es la mierda seguro qué hacer? Porque no estás?
+Salió una parte del número? Se les falta el país y no mas de derecha??
+La mierda está
+En la mayoría de los pueblos, pero la mierda a las que están con este número.
+Boric ya me da la nueva rueda cambiaria
+
+Eso es lo mas probable
+Se pudra 
+No es lo más probable que la verdad  y después se usa el paje.
+Es lo más probable que la taza de Boric...
+
+
+
+Index: 79 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Los venezolanos, los que no sean tan malos son una wea de pobreza.
+Que es la única razón porque estamos en este sub?
+La gente qlia mas fome ctm Lindsay Loyola  Los pacos y el wn maldito de los delincuentes.
+
+
+
+Y aun asi te gusta el día me da la risa que tiene el wn de los pacos, pero si quieres hacer lo mismo con el wn de los pacos...
+
+
+
+Index: 80 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Los venezolanos han hecho mierda los demás porque todos estaban en la misma raza
+No son "venezolanos" que no tiene nada de xenofobia. Lo único verdad es que estamos aceptando como el pueblo o conocimiento del sur, pero ahora hay una solución de lo suficiente y para hacer una empresa sobre el tema de la ley.
+
+
+
+Index: 81 
+Starter Text: Los venezolanos 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Los venezolanos han hecho una raza y no nos pasó nada.
+El resto del mundo ya se llegó a la mierda, con un estudiante de batería y aguas de batería, el paco quedó para sacar a la empresa, anda en el mismo piso hasta llamado de baterías. Cualquier cosa que también hay muchísimo que te dices que es una realidad pero mas o menos los derechos humanos, entre los vecinos podrán salir cuando las noticias y porque eres en la inmensa y siendo comentras tratarlos en su trabajo dentro. En todo caso creo que va presiones me sigue fue lo que necesario ir al final, asaltar y tirar una rutina japones
+Uno llorique...
+

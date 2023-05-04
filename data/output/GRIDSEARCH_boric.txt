@@ -1,0 +1,1181 @@
+
+
+Index: 1 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric no es tan raro que Boric.
+
+Pero si eso es una wea que no tiene nada que ver con el presidente.
+
+Pero si, eso es una wea que no tiene nada que ver con el presidente.
+
+
+
+Index: 2 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric es una mala persona que le gusta la gente que no tiene nada que ver con la gente que tiene más que ver con la gente que tiene.
+
+No, pero eso es una mala persona que le gusta la gente que tiene.
+
+No, pero eso es una mala persona que tiene.
+No, pero es una mala persona que tiene.
+No, es una mala persona que tiene
+No, es una mala persona que tiene
+No, es una mala persona que tiene.
+No, es una mala persona que tiene
+No, es una mala persona que tiene.
+
+
+
+Index: 3 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric es muy bien la ley, y eso no es una ley, sino que la ley es una ley, porque es una ley de derecha. 
+
+Pero si esa es la ley de derecha.
+
+
+
+Index: 4 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric es una persona que no tiene nada que ver con la gente que vota por Kast.
+
+Pero si lo hacen, no es una wea de la gente que vota por Kast.
+
+No sé si es que está bien, pero es una wea de la gente que vota por Kast.
+
+
+
+Index: 5 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric está en su momento, y espero que la gente sepa que no le guste.
+
+Ahora que si no se puede hacer, los votantes de Kast son unos que no quieren votar por el presidente, pero no les gusta que el PC se puede votar por el apruebo.
+Si, no lo dice, pero no lo dice. Porque no hay nada, solo que eso sea muy bueno.
+No se puede votar por el apruebo
+El apruebo es una parte de la democracia, porque no se pued stripping.
+Porque no es una parte de la democracia?
+no es una parte de la democracia
+No es el apruebo, porque no es el apruebo.
+
+
+
+Index: 6 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric está mal y no quiero hacer nada a la gente que votó por el apruebo.
+
+No es un derecho de tener una constitución política. No es un derecho de tener una reforma, no es un derecho de tener una reforma.
+
+Soy de derecha y no mejor que lo hayan he visto por la democracia.
+
+El votante de Boric fue muy poco, ya que no sean votarán por Kast, y no porque este wn.
+
+Y eso mismo, en esos años, es una democracia
+Pero si no sean votar por Kast y por la democracia.
+
+La gente va a votar por el apruebo?
+
+Si los votantes no están ni votando Kast o Kast porque los votantes no están ni votantes.
+
+
+
+Index: 7 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric no tiaturdays, pero es una wea de la derecha.
+No se si el gobrunners están en contra de los delincuentes y por lo menos son más "progresistas" ilegales. Pero igual me gustaría ser como algo así a las cosas que hay que tienengan o no pagar con nada mas de lo que hacenas, solo para qué leerlo. Yo siempre he visto muchos gringos qlos cuando salió mal, yo soy chico, pero nunca tuve que verdad ni cagando. No sabrá bien todo lo que sea... El problema era que había gente que votado rechazo pa mi polola.
+
+
+
+Index: 8 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric no es una mierda, solo debe ser el mismo presidente.
+No sé si lo están haciendo en la misma situación,whitehall,no puedes recipes porque son los dos perros y las mejores weas que tienen. Pero al menos se les olvidó a la vida de mi familia le gustaba el chiste de la gente con la misma huea,lo mas malo era una vez y yo comenzaba a ver quien salió la cagada de la risa. 
+
+
+Y ahora tiene la misma razónica para todos? Yo soy tan fome xD
+El mismísimo amigo del apruebo,me deber y suelto dejaría que este wn cuando llegara ahi
+Tengo más bien, así qliao, nadie podría decir "paco" ni tampoco jugar
+Me acuerdo mucho diciendo que ya estaban entre los pacos.
+
+
+
+Index: 9 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric esta en el norte de Chile, y no hay un país muy bueno para nada.
+Y si lo hacen? No es asi tan weon como la gente con la culpa de las personas que quieren sean "cuales". Es porque son mas caros que los pacos parecidos... pero a mi mejorar ocupar una vuelta. Si alguienzo tiene su trabajo solo iba bien, entre varios donde ya te van a verla y toda la pega sin siquiera escuchar. Otras cálculo. La mayoría del país tenga en Chile tenemos muchos problemas empresas que nunca aprendieron cuando llegaron a este tipo de cosas distintas.
+
+
+
+Index: 10 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+.
+
+
+
+Index: 11 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric está en contra de los politicos y la derecha se está haciendo bien.
+
+
+
+Index: 12 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric es mejor que Piñera. 
+
+Por eso hay que hacer una de mis padres en una de mis amigos y que no han he visto una vuelta en el metro.
+
+Porque no es como decir que la derecha debe haber leyendo el nombre de Piñera en su país.
+
+
+
+Index: 13 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric es una mierda y no se puede hacer.
+
+No sé si estoy en contra de lo que quieras, pero el problema es que los politicos no tienen la capacidad de ser más que nada de eso. Si hay una mierda que se puede hacer, no se puede hacer, osea que la gente que no tiene mucho mas que hacer.
+
+
+
+Index: 14 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric es una persona queCollegeHumor no tiene ninguna experiencia de la ciudad, pero es una persona que tiene una experiencia de la ciudad y no tiene ninguna experiencia de la ciudad.
+El problema es que no está el mismo que yo en el mundo. La mayoría de la gente se va a poner el derecho a hacer la educación, pero no se va a dar el mismo y no se va a poner el derecho a hacer la educación, si no se va a pasar el derecho a hacer el derecho a hacer el derecho a hacerlo. Si ese es una mierda es una mierda, la gente no es una mierda, o una mierda es una mierda, lo que está pasaría para la gente.
+
+Si, pero igual es una mierda.
+
+
+
+Index: 15 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric ha estado bien.
+
+Boric no es lo mismo. No sé si le hace la opción de Boric porque mejoró lo que he tenido en el gobierno, pero aún así es uno debería ser una pésima idea de que no se ve más bien en la realidad.
+Ya po, no se que esperaba ni la wea, es porque hay que estudiar con eso?
+Ya po, no se que espera ni la wea
+
+Solo mejor que no me gustaría la oportunidad.
+Pero que se que era la oportunidad para que tenerlo, y que la oportunidad para los caballos
+No, si no se que espa
+No soy el problema, es que no se que espa. Es lo que sea el problema, es que no solo.
+
+
+
+Index: 16 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric no tiene nada de malo, pero es una mierda.
+Y la gente se va a quedar con el pico en la cabeza? 
+
+
+Porque los gringos son tan grandes como si fueran las weas y ya están haciendo lo mismo por su trabajo para ser "el pais" o algo así...
+
+
+
+Index: 17 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric no es el mismo presidente, solo porque la gente vota rechazo y lo dejo.
+No se si le gustan los derechos humanos a su propio gobierno en este pais o incluso estados unidos como para pueden ser parte de las personas pero iguales... 
+
+
+Por qué? ¿Cómo me hizo pensaría que Chile tiene que ver con el nombre del chileno?
+El wn fue el "pobre" más bonito, cuando hablaba de la cagada dura en la ciudad. La wea era la mala idea de la que tengo, yo soy mas bien, ya bastante bueno
+La weá siempre va a salir mal, niuna persona xd.
+
+
+
+Index: 18 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric es una persona muy interesante, no pude aprender a votar porque el estado tiene que ver con la gente de derecha y lo hace como si quiera.
+
+
+
+Index: 19 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric es un presidente, pero no se que Boric es presidente, pero no se que Boric es un presidente.
+
+Y si, eso es lo que quiere, pero no es lo que hay, no es lo que hay.
+
+Y si, es lo que hay.
+Y si, es lo que hay.
+
+Y si, es lo que hay.
+Y si, es lo que hay.
+
+Y si, es lo que hay.
+Y si, es lo que hay.
+
+Y si, es lo que hay.
+Y si, es lo que hay.
+
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+Y si, es lo que hay.
+
+
+
+Index: 20 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric no es tan bacán.
+
+Y no, el problema de los comunistas es que no es tan bacán, es tan malo.
+
+Yo creo que Boric es un presidente de Chile, y está más bien, pero el presidente del mundo de Chile es tan malo.
+
+Y eso que no es tan malo.
+Yo creo que Boric es un presidente de Chile, pero.
+Y es tan malo
+Y eso que no es tan malo.
+Y eso que no es tan malo.
+
+No está malo.
+Yo creo
+No es tan malo.
+No, no es tan malo
+No es tan malo
+No, no es tan malo.
+No está malo.
+No, no es tan malo
+No está malo
+No está malo.
+No está malo.
+No, no está malo.
+No, no, no está malo. no, no, no.
+No está malo, no.
+
+
+
+Index: 21 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric habla como uno de los países que hace más de una mierda que la derecha, es una cosa que no tiene nada que ver con el presidente.
+Yo creo que lo que me hizo pensado es que eso no es tan como el que lo está en este momento, el mismo presidente no está aceptado en lo que está haciendo en la derecha.
+Me da rabia que eso que la derecha lo haya que no mas. El tema es que se puede decir
+Yo creo que en Chile no me parecía a la derecha
+Yo está en Chile.
+Yo creo que en Chile
+Yo está en Chile.
+Oye
+El mismo presidente
+Oye
+Yo está en el mismo
+Ya
+!
+Yo está en Chile.
+No es el mismo
+El mismo.
+
+
+
+Index: 22 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric no es una persona, es una persona que tiene una persona que tiene una persona que tiene una persona que tiene una persona que tiene una persona que tiene una persona que tiene que tiene que tiene que tiene que tiene que tiene que tiene que ese persona.
+
+Pero si el presidente no tiene que ver con la derecha y la derecha tiene que tiene que ver con la derecha.
+No se que es una persona que tiene que ver con la derecha, es una persona queipedio.
+
+No es una persona que tiene que ver con la derecha.
+No se que es una persona que tiene que ver con la derecha.
+No se que es una persona que tiene que ver con la derecha.
+No se que es una persona que tiene que ver con la derecha.
+
+
+
+Index: 23 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric no tiene la misma wea que hacer, pero si es que la gente le dice que no lo está pasando y no le da la gana.
+Para los comentarios de los mods, el tema es que se había visto a las protestas en el mundo de la derecha, no me gusta.
+
+Pero si la mayoría de los mods hubiera votado apruebo por la derecha y no se había votado apruebo...
+El problema del apruebo es que es que no será más facho que los políticos de este tipo de derecha.
+
+
+
+Index: 24 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric es presidente?
+Que wea mas raro, no me interesa decir que Boric es presidente, pero hay muchos chinos que votaron por Boric. Es el mismo candidato que no les gusta Boric porque son bien la realidad de la democracia.
+
+No está tan dificil de ser el votante y los votantes del apruebo. Si no lo pueden votar por Boric si no vota por Boric en contra del apruebo, porque no se pueda votar por uno.
+Esa persona tiene una cosa.
+
+Por que votaron por Boric no se pueda votar por Boric, porque no le está tan dificil de ser votante.
+Ojalá también, es la derecha
+Ojalá que no lo vota por Boric.
+Tremendo Kast
+
+Tremendo Boric
+Y espera el votante.
+No es la votante.
+
+
+
+Index: 25 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric no es una wea tan fome, pero la verdad me gustaba mucho el presidente de Chile.
+Porque los republicanos están en la misma situación y tienen que ser muy poco apropiado para todo lo que hace. Pero por suerte si quieres decir que son parte del país o shields? 
+
+
+Y como dices que hay gente que votan rechazo con Kast...
+
+
+
+Index: 26 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric no tiene ningún acuerdo. 
+
+Ya está en el mismo contexto, pero si la mayoría de los países conocidos son más grandes y tienen una empresa económica para poder distinta a lo largo plazo, porque las cualquier weas se van al final como el valor del trabajo. Pero ahora mejorarán su propio sector es bajo todo cuando vivimos hoy diciendo el mundo. Y yo tampoco soy tan solo o mencido así... Yo igual era malo verlo :P
+
+
+No te voy a decirle: "la gente siempre había pensado", entendido
+Aguante el chiste corto, ya quiero mucho.
+
+
+
+Index: 27 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 10 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric no tiene nada que ver con el presidente. Esa wea me parece correcta, lo cual es la misma forma en que los votos están haciendo y porque son las leyes de derecha afectan su propio gobier Additionally tienen sus ideas.
+Si fuera realmente se ve como un "falta" entonces o algún motivo para que hablamos de la democracia izquierda del rechazo? Yo soy muy bueno... pero yo tampoco cuando todo fue claro que hay muchos ni siquiera quiere saber si gana plata solo te vaya a dará bien xd igual sería raro, ya sea tan fácil jaja. Si vas por el problema solucionado, despues eres mas malo anda así.
+
+
+
+Index: 28 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric es una persona que no tiene nada que ver con la derecha.
+
+
+
+Index: 29 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric no tiene ningún sentido que los están conectados de la derecha.
+
+Ahora si no hay ningún sentido que los están conectados de la derecha, eso es una forma de expresión a la gente que vota por los que vota por una reforma, porque es el votante no tiene ningún sentido que los están conectados de la gente.
+
+
+
+Index: 30 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric es una mejor forma de hacer una constitución, porque no entiendo porque Boric es una mejor forma de hacer una constitución.
+
+Y los candidatos también son los de ese nombre de Boric, pero aunque es una nueva ley de Boric.
+
+Porque si eso no queda bien es una nueva ley de Boric
+Porque no es Boric?
+No, no estamos en el nombre, pero es una nueva ley de Boric.
+
+
+
+Index: 31 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric no es una mierda.
+
+El problema es que la gente de derecha es una mierda y no es una mierda, porque los votantes son una mierda y no sean más votantes.
+
+Pero si lo hacenas en la derecha es una mierda, no es una mierda.
+
+Ya pero si lo hacenas en la derecha es una mierda, no es una mierda.
+
+
+
+Index: 32 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric esta mal.
+
+No sé, pero me gustaría que no había otra cosa. Pero si la gente debe tener más de 100 años es más que una wea y más que una wea. Y por lo mismo en mi opinión, las veces me hicieron en una mierda, no se me gusta mucho como el nombre y puedo decir que el presidente es una wea de la propiedad, pero si alguien que no quiere ver el nombre es el nombre, por lo que hay que le da mucha gente con su propiedad, pero según el nombre es el nombre y los que no están bien.
+Yo lo dejo dejaron como para hacerlo todo, y no me salió, pero me quiere decir que era una wea de 100 años.
+
+
+
+Index: 33 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric está en la tele, no debería ser una persona tan grande.
+No puedo decir que nadie está en la tele ni ahí con el "siempre mejorarás" de que quedó la mamá de Chile, pero es que el wn tiene que ser "siempre mejor" de que su presidente está bajando una mierda en el mundo.
+Pero si esa empresa se puede aceptar con la wea y lo que sea así, ya que es una wea que no puede ser una empresa. Yo soy bueno, no lo que habrías en el mundo, pero siempre mejor.
+Lo que me preguntaría porque no entiendo. Lo que esa mierda es que la mierda era la mierda y que lo hizo.
+
+
+
+Index: 34 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric es una wea de mierda.
+Pero si, el gobierno está bien y no quiere decirle nada porque la gente votó rechazo en contra de los "progresistas" o delincuentes. 
+
+
+No puede ser tan malo como seguir a todos los derechos humanos para defenderse con este tipo de vida, pero siempre lo hace verdad...
+
+
+
+Index: 35 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric es una mujer.
+Me parece una raja, pero me encanta ver la vida de este weon en el colegio. 
+
+El mismísimo tiempo se le queda bien algo así y ahora estoy diciendo "no hay nada" cuando lo hace porque no te guste. Yo soy mas facho como si hablaba de todo ojalá con los juegos de mi vida, ni siquiera salía ahi ya cagado su pega, quizás tuve que pasarlo antes después del rechazo y yo apoyo... Y bueno igual podría ser malo xD
+
+
+Y pensé que era tan solo wn? XD
+Aguante el chiste de la empresa, para mi familia les importa el chiste corto.
+Ese fue un chiste de la empresa.
+
+
+
+Index: 36 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric no es una cosa, pero el presidente tiene sentido.
+No sé por qué me dio la mochila y lo dejo claro estás como tal. Es mucho mas caro menos tiempo que los pobres con suerte haciendo yo si tuviera todo es una broma o alguien para ver ahi. Pero según ellos mismos fuera porque eran malas en la derecha ilegica y luego son las cosas iguales...
+
+
+
+Index: 37 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric no es tan raro que Piñera, aunque no hay nada que ver con el presidente, que no es tan raro que Boric, aunque hay nada que ver con el presidente, que no es tan raro que Boric, aunque hay nada que ver con el presidente, que hay nada que ver con el presidente, que hay nada que ver con el presidente, que hay nada que ver con el presidente, y que hay nada que ver con el presidente, que es tan raro que Boric.
+
+Ya, si, si, pero el presidente es tan raro que Boric no está tan raro que Boric.
+
+Ya, si, si, pero.
+
+Ya, si, pero.
+
+Ya, si, pero.
+
+Ya, si, pero.
+
+Ya, si, pero.
+
+Ya, pero.
+Ya, si, pero
+Ya, si, pero.
+Ya, pero.
+
+
+
+Index: 38 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric es más popular y más popular y más duro que el presidente.
+Pero eso sí, es una forma de que el presidente se va a la raja de que los pendejos no sean ni siquiera en este caso, porque si se lo hacenan, la verdad es que el presidente se va a la raja de la misma persona y la persona se lo hacen o no.
+
+Eso no es una diferencia, es el presidente y no se lo hacen, pero el presidente es una diferencia, que es el presidente, pero el presidente es una diferencia.
+
+Y si el que se puede hacen la cagada persona, no está en este caso, el presidente es una diferencia, y el que no es una diferencia.
+
+Y si el que hacen por la raja de las personas, no está.
+
+
+
+Index: 39 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric es una persona con el que votó apruebo y el que votó apruebo, a veces la gente no le va a gustar ni porque sean más, por que no estas muy cerca de nuevo es que esta gente no le gusta la gente.
+
+No creo que seguiran tan mal, pero siento que hay gente que no estaría mal, pero que no hace nada, por que no estas muy cerca de esa gente le gusta la gente
+No seguirán porque es mal, porque es mal, pero es mal que seguirán para todos
+El weon ql es una buena gente.
+
+
+
+Index: 40 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric no es tan malo, pero la gente no tiene nada que ver con el voto de Boric.
+
+Pero si boric no es tan malo es tan malo, como lo hacenas porque Boric es tan malo y puede ver con Boric no es tan malo.
+No sé si estoy de acuerdo con Boric, pero no hay una mierda, pero nunca he tenido que ver con Boric, pero no hay una mierda, pero nunca he tenido que ver con Boric
+Boric no está en contra de acuerdo.
+
+No se que sea tan malo, pero si no hay una mierda, pero nunca he tenido que ver con Boric, ni una mierda.
+No soy Boric, pero no hay una mierda, pero nunca he tenido que ver con Boric, nunca he tenido que ver con Boric, pero nunca he tenido que ver con Boric.
+
+
+
+Index: 41 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric no tiene nada que ver con la constitucion y el presidente se quiere decir que estos temas son de derecha, no de izquierda.
+Pero si no hay nada que ver con la constitucion de Piñera hace unos años en esa época, pero los votantes no son de derecha, solo de izquierda o derecha
+No me gusta el gobierno, ni lo de izquierda ni lo de izquierda, pero igual es el mismo.
+El mismo Piñera es uno de derecha y el presidente de izquierda.
+El mismo Piñera es uno de derecha.
+Porque es uno de derecha y lo de derecha.
+
+
+
+Index: 42 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric está en el sub
+Yo no soy tan ingeniero comercialista, pero tampoco me he gustado con los otros candidatos. Igual me dio pena que lo mismo, yo se que le puede hacer una opinión que porque si eso sea de las personas que no son tan ingenierías, pero igual siempre la mayoría. Si estoy de acuerdo de la misma manera y no me darían más vida o menos. Yo nunca me había pensado que quedar una compañera en el comercial y me dijo que no había tanto ninguna luna de eso, me hizo que estamos en la raja, pero ahora que lo veía bien.
+
+
+
+Index: 43 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric es una wea de derecha.
+
+Pero si, porque no hay nada más que Meshuggah o algo así como la misma, el tema del rechazo está bien y seguimos en el momento. No puede ser tan malo pero lo mejor para los niños que hacenemos a todos. Pero siempre ha sido bueno verlo con las cosas de que yo soy mas facho...
+
+
+
+Index: 44 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric es una persona más rápida que los políticos, y si lo hacen con la misma cantidad de cosas en el país están aplastadas.
+El problema del gobierno no es que este fue tan poco probable para mi oportunidad como tal...  porque igual hay muchos chilenos pero siempre son "no necesarios", yo nun bountieronlo por ser presidente? Porque todo sean bien entre menos asi: solo mejorar gente también tiene suerte y luego tratar las cifras de vida. Lo peor era el tipo que le gusta que habría decirle nada a quienes xD cuando alguien podría salir mal ahora ya después. La verdad dice que tampoco existe.
+
+
+
+Index: 45 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric puede ser bien una persona como en la que no le preocupa nada. No me extrañaría que estudio el gobierno para sacarle más tiempo al presidente de tu país, y espero que los políticos sean derechistas ilegales porque son "fachos" o cualquier informados
+Si a este weon lo hiciera con todo el día era un del apruebo te van a aprender igual, solo cuando ella viviendo su propio sector tan grande pero nunca he tenido varias veces jajajajajaja.
+
+
+
+Index: 46 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric no tiene nada que ver con la ley de "estudiantes" y la derecha que tiene la ley de "estudiantes" es una de las que no sean ni una wea.
+
+
+
+Index: 47 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric fue a un candidato que quería rechazarme, pero lo que dice es que esa candidatura fue a la derecha y no lo puede sal instructions.
+Porque es lo que digo en este post es que el candidato fue aceptado, a un candidato que no lo quería decir, lo que digo en este post es lo que digo en este post y no se quiere decir. Pero es lo que digo en este post es que es lo que digo en este post.
+
+
+
+Index: 48 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric va a salir de estado de Chile o de los países que se quieren sacar una mierda en el mundo de la ciudad.
+Yo creo que el que no se le esta bajando es que el gobierno de Kast o Kast sea malo y que Kast esta mal, porque es una mierda
+Agradecido con la nueva constitucion eso. Agradecido en la mayoría de los que se le hacen aprobó y se debe estarán más cerca, si no le quieren hacer lo que aprobó.
+Yo creo que los gringos son puros weones.
+Esto es lo mismo por la nueva constitucion.
+
+
+
+Index: 49 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric no tiene nada que ver con el estado, pero es una mierda.
+
+No es lo mismo que el presidente debe ser una mierda y no tiene nada que ver con la derecha, siendo que la derecha tiene una mierda o una mierda.
+
+Si no lo hace, yo me puedo decir que es una mierda en la vida que tengo que ver con el estado de la derecha, pero porque se ve que está mal, porque está mal, porque está mal.
+
+Lo único que hace es que es una mierda en la derecha, es lo único que hace que está mal, es lo único que hace que está mal.
+
+
+
+Index: 50 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric es el mismo, pero en ese momento no hay que dar ningún tipo de opinion y que la gente no tiene sentido. 
+
+Por otro lado, estos temas son los que son unos que se han pasado por los cambios a la mierda y lo han hechos con eso, no se había solucionado, como que si no les gusta el nivel de "los estudiantes"
+
+Ya, yo me gusta, estoy en el momento de que no pueden ir a la vieja, la gente no está ni siquiera la cagada persona que tiene su propio intento, por lo que han hecho para el estado, la cual ya es más que segun la vieja y lo que está por el nivel de "los estudiantes".
+
+
+
+Index: 51 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric es más popular
+Hola. Es la única salud de una persona que me parece más "informatica". Y esto en general tiene la salud y es una distincion, mientras más piola el sistema no es "informatica". 
+No sabrá el nombre, pero nunca estoy ni ahí.
+En Chile seguiría cerca de la salud
+Que pena que son más importantes
+Esto me da más difícil, siendo que el presidente puede ser tan importante porque un pa que se puede desigual o tienen a su programa de puede ser de estudio o más importante para la gente que haga.
+
+
+
+Index: 52 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric no tiene nada de malo.
+Pero es una wea más rica, porque el gobierno parece ser tan importante y como estamos en la ciudad del país?
+
+
+El problema es que se ve afecta mucho con las leyes mas radicales o algo así... ~~la mayoría para los politicos sociales socialistas y democráticos son los mejores.
+
+
+
+Index: 53 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric es muy probable que Pinochet sea un presidente, pero aún así se sabe la historia de lo que me dices
+Era como el código del tiempo y te pueden llegar con los estudios. El chileno tiene muchos resultados porque si le gusta en Chile todo el Pulmón fue al menos malo para las baterías o mas baratos 
+
+
+En fin yo vivía hace uno no había nada de derecha, igual podría quitarle la constitución presidencial xd? Yo soy partidario de su candidato...
+Por supuesto ya era verdad cuando hay una vez viña realmente será buena onda
+Csm! Aun recuerdo que entonces nos dijo tu propio :cito. Si tenemos que aparece una de 5 luca y trabajadores en el gobierno solo salió la wea pa mi papa jajaja.
+
+
+
+Index: 54 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 20 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric es el problema de Putin y Maduro, puede estar en la realidad. No lo digo porque uno sí podría hacer mucho más visto pero con los mismos votos politicos 
+
+Pero no hablamos del "siempre se te quiere decir", a ti o si le gustan? Ese era weona algo mejor. Al menos yo soy tener mas rico cuando cualquierda, como fue un presidente asi nomas xd 🤣🤣😂 😂
+Es verdad, nunca he visto una persona mal entonces. Pero bueno wn, ahora viene todo este dia para mi trabajo :/a
+La gente igual hay que apelación de los nuevos paises...
+
+
+
+Index: 55 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric es una mierda.
+
+Pero si eso es una mierda, no hay nada que ver con la realidad de Boric.
+
+Pero si no, es una mierda, no hay nada que ver con la realidad de Boric.
+
+Pero si, es una mierda, no hay nada que ver con la realidad de Boric.
+
+Pero si, es una mierda, no hay nada que ver con la realidad de Boric.
+
+Pero si, es una mierda, no hay nada que ver con la realidad de Boric.
+
+
+
+Index: 56 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric no era tan fácil que se haya ocurrido en ese caso.
+
+Y si no hubiese sido el mejor país de Chile, pero el país de chile hubiese sido el mejor país de Chile, es un país de Chile.
+No soy de Chile, pero deberíamos hacer newspapers, pero no mejor que la gente hubiese trabajadora en un país de chile y no se hubiese trabajadora en un país de chile.
+No sé si mejor dicho que se hubiese trabajado en Chile, pero no está como el mejor que los perros.
+Ya pero la gente hubiese trabajadora en un país de chile hubiese trabajadora en un país de chile.
+No, pero si hubiese trabajadora en un país de chile.
+
+
+
+Index: 57 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric es una derecha, es como si fuera una derecha, pero si fuera una derecha, no es una nueva derecha, es como si fuera una nueva izquierda, es como si fuera una izquierda, y lo es que no es, es como si fuera una izquierda.
+
+La derecha no tiene nada que ver con el tema de la gente que conoz, pero por que en la derecha se le da a cagar la derecha y no le da a cagar la derecha.
+Yo que no podría decir que el weon que no se pueda usar con la gente de los otros
+Porque los otros, no tiene nada que ver con la gente que también es más weón que pueda
+Porque weon.
+
+
+
+Index: 58 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric es una mierda.
+
+Pero no me gusta la gente que vota rechazo, pero es una mierda.
+
+Eso es lo que está haciendo de la derecha, el presidente no tiene que ver con la derecha, y los que vota rechazo son los que vota rechazo.
+
+La gente que vota rechazo es lo que está haciendo de la derecha, lo que está haciendo de la derecha.
+No es lo que está haciendo de la derecha, el presidente no tiene que ver con la derecha.
+
+El que vota rechazo es lo que está haciendo de la derecha.
+
+
+
+Index: 59 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric no tiene ningún sentido.
+
+No sé, yo sé que la gente se pone a votar por Kast y no votaría por Kast, pero eso es una forma de salir de la gente.
+Pero en el gobierno anterior es que los republicanos están haciendo su propio presidente y que no tienenemos todo el voto de la derecha, que la gente tiene que hacemos más que la política que Kast.
+Oye, que no hay mucho que votar por Kast.
+Agradecido que ya no podemos aceptar Kast.
+Que le gusta este tipo de esto, la gente es o no más.
+
+
+
+Index: 60 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric no está bien y la gente se alegra que hay que darle su trabajo a una persona sin tener que llegar con una persona.
+No entiendo el tema pero en que te puede saber lo que le diga, eso me ha pasado eso.
+
+
+No me gusta.
+Está bien, no seguiría ni cagar la imagen, por lo que me hizo la tele, pero por lo que me hizo
+Deja de escuchar, no está bien, eso que seguiría ni cagar la imagen, por lo que me ha pasado. 
+Oye, bueno, deja de esc Techniques de Artes, me gusta.
+Ya, por lo que sea, cuando era la otra wea, por aquí.
+Pero también, como uno de ser uno, al menos en la cara dehanded, también.
+
+
+
+Index: 61 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric no es tan raro.
+Ya pero el estado tiene una mierda, la derecha se lo merece y todo fue a votar porque ya me gustaba en el país de los comunistas del apruebo. Yo soy chileno igual con el tema de los nombres de la realidad, solo le hacía muchos amigos al presidente. El wn era pobre y su familia estaba bajando de una persona para sacarle la vuelta.
+Pero si tienes Variable Pdg2 son los weones que te podrías decir "no" 
+
+
+
+y yo tampoco sé que hay gente que nunca tuve que verlo en las cosas que pensamientos?
+!
+No cacho que sea buena idea, entonces...
+
+
+
+Index: 62 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric es una buena voluntad, y estoy a favor de la derecha.
+Y si no me equivoco con lo mismo pq yo soy el presidente del apruebo xd  pero igual todas las weas son más raras que nada mas
+A mi se le va a hacer en el mismo saco de los comentarios porque ahora este wn ya era una buena foto para algo
+Todos sabemos que cuando nos podría decir: “mejor” 🤣🤣🤣😂
+Para mi papá nunca escucharme chico
+No entiendo tan bien jajado... Aun así quien dijo que tenia una buena diferencia de cómo mataron a Chile
+no les gusta ocurre ni idea de mucho? :c..
+
+
+
+Index: 63 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.7, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric está en el colegio.
+Si le dices, pero ese "chileno" nunca ha sido tan alto como los que pueden hacer lo mismo a la persona que te preocupan y cambiar con esos weones de que salieron a una persona porque no sabes cuando se llamaran así  XD
+Aquí hay viejas para tener riesgo, yo sé que todos les dije "ya ya me fui si tuviera la vida", mi mamáscara andaba jugando a jugar a la empresa y tiene una amiga... El wn fue lo que quería arriba: ojalá nos recuerdo :cito de nuevo
+En esa época vez mis compañeros pensaban que era bacan buena idea, sonarme en una escuela de su amiga.
+
+
+
+Index: 64 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric es una persona muy interesante, pero el voto de Boric es una persona muy interesante.
+
+Si, porque es una persona muy interesante, pero el voto de Boric es una persona muy interesante.
+
+El voto de Boric es una persona muy interesante, pero el voto de Boric es una persona muy interesante.
+
+No es una persona muy interesante, pero es una persona muy interesante.
+
+No es una persona muy interesante, pero es una persona muy interesante.
+No es una persona muy interesante, porque es una persona muy interesante.
+
+No es una persona muy interesante, porque es una persona muy interesante.
+
+
+
+Index: 65 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric no era nada más que la persona que se va a pasar por el nombre.
+
+Y si es una wea mas rica que la que no era tan rica de esos días, que es una wea mas rica que la que no era tan rica de esos días.
+Yo creo que Boric era bacan.
+Yo creo que Boric era bacan.
+
+Yo creo que B era bacan.
+
+Yo creo que B era bacan.
+
+Yo creo que B era bacan.
+
+
+
+Index: 66 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric tiene mucho que ver con los manifestantes.
+Los que no están en contra de la delincuencia son los que no son el mismo de los que los que están en contra de la delincuencia.
+"Pucha no, pero no que los que están en contra de los manifestantes son los que no son el mismo"
+
+
+
+¿Cualquier persona que sea la propuesta de los manifestantes que son la propuesta de los manifestantes?
+No que más que es porque son lo mismo, solo wore.
+
+
+
+Index: 67 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric no es tan raro que Kast.
+
+El tema es que el presidente se puede llevar a la gente con el derecho de vivir en una sociedad, pero esto es muy raro que la gente lo puede hacer.
+Porque no es una solución de una persona que no tiene la propuesta y si no tiene que ver con la derecha.
+Lo único que yo digo que le puedo decir es que eso es el problema, pero porque es el problema es que los gringos son "el mismo presidente"
+No sé si es una solución de una solución de la derecha, pero no es una solución de la derecha.
+
+
+
+Index: 68 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric es una buena suerte
+
+Yo creo que Boric es una buena suerte.
+
+
+
+Y la fuente de las empresas no se pueden pagar con nada en el mundo? No, la respuesta está mal.
+Si, porque si, tienes razónico.
+
+Y como decir ese que es tan cierto como en la pega
+Hasta que te llegue algo más grande y no te pido a los de la empresa del mundo
+Oye pero mejor sería la otra wea
+Que yo sé que esto no me gusta la wea, esa.
+Yo lo mismo he escuchado una carrera048 y después me gusta la wea, pero se hacía a los de los juegos.
+
+
+
+Index: 69 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric ya tenía que estar en la casa y llegó a mi abuelita, pero me empezo a entender que una vez más en mi casa lo pidan como cómo le gustaba la carrera. Yo no podía decir nada, ni una vez me lo que dijo porque estaba habían hecho.
+Nooooo que me pasó con la verdad, la verdad si me voy a reírme el juego a la que hace 1:30, estoy viendo bien, yo soy un auto, perrito y le dice que le gustaba la vez que era de chico, me pago mucho para la risa y la verdad, lo mejor pa q me contaba que le puso y lo vio, a mi hermano.
+
+
+
+Index: 70 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric no tiene nada de malo.
+Espero decirle que es una wea más fome, porque el wn va a ser peor que la gente y los pacos en general? Es como lo hace con la derecha mas difícil que se veia bien llorar. Y yo soy pobre pero estoy siempre mejor para tener fifa y leerlo pa la otra opción. No te guste ni hablar delinche, solo quieren todo si las personas viven en su casa cuando salen alguienes cerca, quizás hay que ya son asqueros qliao. También tenemos que desaparecido hasta el día y nos llegamos a ver siendo "el presidente" xd. Pero ahora nunca hemos trabajado mucho igual... Yo digo que sea bueno saber tu punto, entonces.
+
+
+
+Index: 71 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric era el único presidente.
+
+Oye, de verdad es un presidente con la gente que vota porque no sabe nada y en cualquier momento si me gustan los políticos seguirán iguales o algo tan fácil afectados como tal. Y ahora va a estar mas mal pero este gobierno hacia el 2019 lo mencionó para todo el día. 
+
+
+Ahhh wn que weon yo soy del apruebo? Yo vivía antes de pagarme suficiente.
+Hola, nunca le quedé la raja el video...
+
+
+
+Index: 72 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.8, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric es demasiado en los ciclistas. Pero está el voto y fue una vez mas mala, no todos años quedarían igual la foto.
+Me acuerdo de eso lo hizo verde porque como tengo un wn jajajajaja xD pq me da risa conocinco vivir pero era duro para mi papa iba a ser caro nomas 😂
+Boric siempre se le olvidó su "migo", yo habia bajado mucho si gana algo. Me encantaba escribió pensarme cuando ya ni voy a pasar nada :/o? Yo nunca te aprecio amigo, ahora tiene una cosa y probablemente usarla del auto, además después tuve que salieron varios de autos trabajando de una carretera hasta las 3 semanas sin que tenia aburrir mis heridas.
+
+
+
+Index: 73 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.5
+
+Yo creo que Boric es un presidente.
+
+Pero si el gobierno de Boric es un presidente.
+
+El gobierno de Boric es un presidente.
+
+Boric es un presidente.
+
+El gobierno de Boric es un presidente.
+
+
+
+Index: 74 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.8
+
+Yo creo que Boric fue a muy chistoso y lo que se hace fue por que sean muy buenos.
+Por supuesto que ahora los políticos se han cometido el proceso constituyente y no los demás de todo.
+
+Esto es una respuesta porque los gringos en Chile tienen muchas cosas más que naciones que eso.  Ameña por la violencia y una dictadura.
+Por que el país de Pinochet en Chile no puede afectar los gringos porque no puede afectar los gringos?
+No es de su mamáximo, dejate a los gringos.
+
+Ya esto es el problema de todos en la derecha, que el estado es de suficiente para el que esta gente dejada.
+
+
+
+Index: 75 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.0, top_p = 0.95
+
+Yo creo que Boric era en vez de rechazar el gobierno de Piñera, porque apoyaba sus propias fuentes al Presidente o Bachelet, y según yo los bajó la presión de su campaña, le gustaba boric, aseguré a lo primero que le está haciendo.
+
+En la democracia del Kast se habla de la gente, cuando llegó a la partida de mi mismo candidato, aunque en este otro lugar no estaba pero quedaba ni en el año.
+Siiiiiiiiiiiii
+Mejor no, es mas esa wea
+No soy del presidente solo le gustaba a un juro que le gustaba a las veces jaja
+No sé cuando se escuchaba el rechazo...
+
+No
+Yo tengo la idea, pero es mejor estará la historia...
+
+
+
+Index: 76 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.5
+
+Yo creo que Boric está muy difícil.
+
+Si el wn no lo quiere, y lo mejor es que se vea el comentario de una persona con el poder, no me molesta nada.
+
+Me acuerdo cuando en la vida real era el mismo que tenía que había que cambiar el video y hace unos años, perros y los que hacía una persona por el que hacía la wea, yo me hacía una vez en la cara y la gente que le decía "yo creo que yo está mal, yo está mal"   y que me parecía que el wn lo más raro. Me dijo que era el mismo que hace una vez por la cabeza, y me encontraba en la vida real.
+Y yo era el mismo que había cambiado en el video, y me encontraba en la cara de la vida real.
+
+
+
+Index: 77 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.8
+
+Yo creo que Boric era una wea más rara de la noche que le preocupa, pero es algo que no sabe a una wea más rara.
+La verdad ya me▬▬ fue a buscar algo que el comentario de mi país. Yo estaba haciendo una mierda en una wea de "chorizo" en la ciudad y lo decía como la verdad. Algunos de mi hermano me dijo que iba algo porque en la ciudad y me parece, pero nunca hablaba que hacerlo con un pico y se me dijo una rutina y después qué lo compre lo peor, pero no me sorprende a su casa, solo viendo la mierda y la palta de que era mi país fue una mierda.
+
+
+
+Index: 78 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.02, top_p = 0.95
+
+Yo creo que Boric hubiera dicho que se había ido a la peor wea.
+Me imagino un candidato que es el presidente de Chile, que ya me dijo que lo hizo así, y le dije que quien no le gustaba el presidente porque en general, con mis cálculos están mas allá de lo mismo y si yo lo sabía, solo debe ser como es un presidente
+
+Yo soy la gente igual que te deja mas que los gringo y ya no entiendo. 
+
+Por fin, alguien que hay que estudió en un montón de weas a este cabro porfa
+Yo sepa que muchos de todo se les robaron y los juegos en el culo y los gente que no debe hacerlo.
+
+
+
+Index: 79 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.5
+
+Yo creo que Boric es el presidente, no tiene nada que ver con la derecha ni votar rechazo.
+Me da risa que está bien porque se llama "Boric" y lo único que hace como acepten las cosas de izquierda en su momento sería realmente mejor siendo más fuerte o malvado para los pacos pero ya pareciera que habían igual que todo este weon xd. Yo soy uno deberísimo decir que le dijo “esta persona que tenemos “perro” del país cuando era tan fome… yo quería salirse mas allá de mi vida...
+
+
+
+Index: 80 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.8
+
+Yo creo que Boric es una mejor persona de "poder culiar", no se si boric tiene algo más relevante, solo para la mayoría.
+Porque este año será lo mismo con los últimos 4 años y después tengo el trabajo en el festival? Jajaja porque queda pal webeo ctm 😳🤣😳🤹👍
+El verdadero donde yo era raro pero viviendo todo esto como antes 🗿!!!!
+Jajajajjaaa casi siempre le decían que ahora nació en una caja y tenia suena buena onda. Se veía rey a mi pareja cuando fue chico, muchas gracias y falta plata del estado, saludos.
+
+
+
+Index: 81 
+Starter Text: Yo creo que Boric 
+
+Hyperparameters: top_k = 50 ,temp = 0.9, penalty = 1.1, top_p = 0.95
+
+Yo creo que Boric es demasiado más cercano a nivel personal, porque el único bueno va a tener una carrera importante para ganar la delincuencia en su profesión. Por favor habíamos mas allá de que si yo llevaba algo así como tal y ya
+Por supuesto...
+

@@ -8,11 +8,11 @@
 
 ## Methods
 
-### It behooves us to take advantage of byte-pair tokenization if we want to include a lot of the texture that makes Chilean Spanish unique. As such, this project uses Huggingface to finetune a GPT2 model to generate Chilean Spanish from a piece of 'starter text'. The hyperparameters were then chosen via a gridsearch approach with human feedback. [The model was trained in this notebook.](www.w)
+### It behooves us to take advantage of byte-pair tokenization if we want to include a lot of the texture that makes Chilean Spanish unique. As such, this project uses Huggingface to finetune a GPT2 model to generate Chilean Spanish from a piece of 'starter text'. The hyperparameters were then chosen via a gridsearch approach with human feedback. [The model was trained in this notebook.](https://github.com/s-cafferty-nlp/ChilenoGPT/blob/main/notebooks/ChilenoGPT_Train.ipynb)
 
 ## Results
 
-### The content itself isn't always logical, frankly. But it's no doubt very Chilean in its presentation. In the sample text below, we see how the model is able to elaborate on starter text in a way that mirrors the behavior of Chilean redditors. The model certainly seems to contain information about Chilean politics and prejudices. Overall, it's rather charming the extent to which the model uses particular chilenismos such as 'la raja' and 'weón' with ease.
+### The content itself isn't always logical, frankly. But it's no doubt very Chilean in its presentation. In the sample text below, we see how the model is able to elaborate on starter text in a way that mirrors the behavior of Chilean redditors. The model certainly seems to contain information about Chilean politics and prejudices. Overall, it's rather charming the extent to which the model uses particular chilenismos such as 'la raja' and 'weón' with ease. [Feel free to play with hyperparameters and generate your own text here.](https://github.com/s-cafferty-nlp/ChilenoGPT/blob/main/notebooks/ChilenoGPT_Generate.ipynb)
 
 ```
 
